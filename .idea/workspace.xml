@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c798c569-262a-4d02-acc3-7bbff77e2bfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/tr1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gramps-tr.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2EfVmXEFF3vEIoY5OEViO2Owopx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/scm/github/heritamas/gramps-tr/tr1.xsl&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c798c569-262a-4d02-acc3-7bbff77e2bfd" name="Changes" comment="" />
+      <created>1662986784369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662986784369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history>
+      <element expression="/database/people/person">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person/gender">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person[surname='Füredi']">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person[surname eq 'Füredi']">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person[name/surname = 'Füredi']">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person/name/surname,  /database/people/person/name/first">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person/name/surname ,  /database/people/person/name/first">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person/name/(surname , first)">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person/name/surname">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person/name/(surname)">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person/name">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="/database/people/person/address/(datestr,dateval)[1]">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+    </history>
+    <find-history />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

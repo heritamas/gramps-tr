@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="tr1" type="XIJPXSLTProcessorConfiguration" factoryName="XSLT">
+    <option name="contextItem" />
+    <option name="contextItemSource" value="ActiveEditorFile" />
+    <option name="database" value="(none)" />
+    <option name="modulePath" value="$PROJECT_DIR$" />
+    <option name="processorId" value="1" />
+    <option name="rdfOutputFormat" />
+    <option name="reformatResults" value="false" />
+    <option name="scriptFile" value="$PROJECT_DIR$/tr1.xsl" />
+    <option name="scriptSource" value="LocalFile" />
+    <option name="server" value="(none)" />
+    <option name="updating" value="false" />
+    <option name="xpathSubset" value="XPath" />
+    <method v="2" />
+  </configuration>
+</component>
