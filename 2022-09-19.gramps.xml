@@ -1,0 +1,3583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE database PUBLIC "-//Gramps//DTD Gramps XML 1.7.1//EN" "grampsxml.dtd">
+<database xmlns="http://gramps-project.org/xml/1.7.1/">
+  <header>
+    <created date="2022-09-19" version="5.1.5"/>
+    <researcher>
+    </researcher>
+  </header>
+  <events>
+    <event handle="_f104d9352777ba296c7215dcc00" change="1656269539" id="E0000">
+      <type>Birth</type>
+      <dateval val="2019-02-17"/>
+    </event>
+    <event handle="_f124d4a7cfa600c0875ac3e724d" change="1659280266" id="E0002">
+      <type>Birth</type>
+      <dateval val="1920-05-19"/>
+      <place hlink="_f17501ba630292306a6776438e"/>
+    </event>
+    <event handle="_f124d602af037281fd54aa7f41b" change="1657169563" id="E0003">
+      <type>Birth</type>
+      <dateval val="1949-12-19"/>
+      <description>Gyulaj</description>
+    </event>
+    <event handle="_f124d657ebd68ab441fa262873e" change="1658391465" id="E0004">
+      <type>Birth</type>
+      <dateval val="1977-09-03"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f124d693b3d6c245ee118e2d413" change="1658391482" id="E0005">
+      <type>Birth</type>
+      <dateval val="1982-01-15"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f124d742f4468719e03f589063e" change="1657130523" id="E0006">
+      <type>Birth</type>
+      <dateval val="1926-11-05"/>
+      <place hlink="_f124ec2a6b067db97716fac30ef"/>
+    </event>
+    <event handle="_f124d7e7c022dfe59e2822fbff0" change="1658391619" id="E0007">
+      <type>Birth</type>
+      <dateval val="1954-07-14"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f124d846cda62d2d99bb3936acf" change="1658601115" id="E0008">
+      <type>Birth</type>
+      <dateval val="1967-08-18"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f124d8888a03cdb828837ca1c07" change="1657128462" id="E0009">
+      <type>Birth</type>
+      <dateval val="1932-10-31"/>
+    </event>
+    <event handle="_f124d94d84c25ff017484506232" change="1657128542" id="E0010">
+      <type>Death</type>
+      <dateval val="2017-11-24"/>
+    </event>
+    <event handle="_f124d9c88f71c92106d080fe312" change="1657128593" id="E0011">
+      <type>Marriage</type>
+      <dateval val="1954-01"/>
+    </event>
+    <event handle="_f124da525196515897ff4f8bd50" change="1657128649" id="E0012">
+      <type>Marriage</type>
+      <dateval val="1976-06-05"/>
+    </event>
+    <event handle="_f124dac5b6a31759d7bc2e73bc4" change="1657128696" id="E0013">
+      <type>Birth</type>
+      <dateval val="1965-07-23"/>
+    </event>
+    <event handle="_f124db0346d7d26e1e0e432164e" change="1657128722" id="E0014">
+      <type>Birth</type>
+      <dateval val="1999-04-11"/>
+    </event>
+    <event handle="_f124db4651433f64e894cc504a3" change="1657128749" id="E0015">
+      <type>Birth</type>
+      <dateval val="1997-04-08"/>
+    </event>
+    <event handle="_f124dd7afdcc0319948af42f7a" change="1657128980" id="E0016">
+      <type>Birth</type>
+      <dateval val="1954-12"/>
+    </event>
+    <event handle="_f124df0a2d53aded03ee92eb581" change="1657129144" id="E0017">
+      <type>Birth</type>
+      <dateval val="1955-06-04"/>
+    </event>
+    <event handle="_f124df7a8ae2063a9f4e4b4de73" change="1657129243" id="E0018">
+      <type>Birth</type>
+      <dateval val="1978-05"/>
+    </event>
+    <event handle="_f124dfd3e9f49bd30441102c6dd" change="1657129227" id="E0019">
+      <type>Birth</type>
+      <dateval val="1980-06"/>
+    </event>
+    <event handle="_f124f100b6e6920220e326ea6dc" change="1657131027" id="E0020">
+      <type>Birth</type>
+      <dateval val="1941-10-30"/>
+    </event>
+    <event handle="_f124f1dc98559bd4bf3e282ff02" change="1657131118" id="E0021">
+      <type>Birth</type>
+      <dateval val="1940-07-28"/>
+    </event>
+    <event handle="_f124f2ae5351573ac3f037b3335" change="1657131203" id="E0022">
+      <type>Birth</type>
+      <dateval val="1972-07-28"/>
+    </event>
+    <event handle="_f124f553e7ce704d65652d1ea7" change="1658430961" id="E0023">
+      <type>Birth</type>
+      <dateval val="1965-07-01"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f124f9dcce77ac6890ddd95c04b" change="1657131956" id="E0024">
+      <type>Birth</type>
+      <dateval val="1958"/>
+    </event>
+    <event handle="_f124fa22f963d88649a12cb5d9f" change="1658601088" id="E0025">
+      <type>Birth</type>
+      <dateval val="1953"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f124fc8e3662b3cef81bd031a6f" change="1658390690" id="E0026">
+      <type>Birth</type>
+      <dateval val="1903-03-28"/>
+      <place hlink="_f124ec2a6b067db97716fac30ef"/>
+    </event>
+    <event handle="_f124ff6351b555b7397e1feca6" change="1657132536" id="E0027">
+      <type>Birth</type>
+      <dateval val="1954-12-05"/>
+    </event>
+    <event handle="_f125005231c55babfbf6371e0e5" change="1658227746" id="E0028">
+      <type>Birth</type>
+      <dateval val="1928"/>
+    </event>
+    <event handle="_f125038466b672d217b28b938db" change="1657132969" id="E0029">
+      <type>Birth</type>
+      <dateval val="1981-11-22"/>
+    </event>
+    <event handle="_f12505c7d952b7f9bf8ec8f692d" change="1657133230" id="E0030">
+      <type>Death</type>
+      <dateval val="2015-11-11"/>
+    </event>
+    <event handle="_f12506d71ce123a76bc49b4a505" change="1657133349" id="E0031">
+      <type>Birth</type>
+      <dateval val="1988"/>
+    </event>
+    <event handle="_f1266061c85c1e36a23261a7ea" change="1657169550" id="E0032">
+      <type>Education</type>
+      <description>Középiskola Dombóvár</description>
+    </event>
+    <event handle="_f12661646573c4a361b5469779d" change="1657169656" id="E0033">
+      <type>Birth</type>
+      <dateval val="1947-10-15"/>
+      <description>Gyulaj</description>
+    </event>
+    <event handle="_f126628fed3588e7918753078f9" change="1657169779" id="E0034">
+      <type>Birth</type>
+      <dateval val="1973-11-23"/>
+    </event>
+    <event handle="_f1266826d3c5a5a3d93b1e4c2a9" change="1657170365" id="E0035">
+      <type>Birth</type>
+      <dateval val="2002-03-18"/>
+    </event>
+    <event handle="_f126696b8637f24e2d59d1c9ca8" change="1657170498" id="E0036">
+      <type>Birth</type>
+      <dateval val="1978-10-08"/>
+    </event>
+    <event handle="_f1266bd74d035eb9249a9d3b0a7" change="1657171562" id="">
+      <type>Death</type>
+      <dateval val="2013"/>
+      <description>2010-2013</description>
+    </event>
+    <event handle="_f1266f6e4423e70f9baf6f2c8f" change="1657171128" id="E0038">
+      <type>Birth</type>
+      <dateval val="2009-06-24"/>
+    </event>
+    <event handle="_f12670cae70353c8d0a2b85b538" change="1658227778" id="E0039">
+      <type>Birth</type>
+      <dateval val="1928-10"/>
+    </event>
+    <event handle="_f12672f84623871e5b1fed59282" change="1657171499" id="E0040">
+      <type>Birth</type>
+      <dateval val="1995"/>
+    </event>
+    <event handle="_f12674f43b31fd45d68bd085070" change="1657171707" id="E0041">
+      <type>Death</type>
+      <dateval val="2020"/>
+    </event>
+    <event handle="_f126756ea70580c7bad608e5d66" change="1657171757" id="E0042">
+      <type>Birth</type>
+      <dateval val="1978"/>
+    </event>
+    <event handle="_f12675b754a1aab6c573055af35" change="1657171787" id="E0043">
+      <type>Birth</type>
+      <dateval val="1984"/>
+    </event>
+    <event handle="_f126761fd7dc0136aa321e4c18" change="1657171830" id="E0044">
+      <type>Birth</type>
+      <dateval val="1955"/>
+      <description>kb</description>
+    </event>
+    <event handle="_f126784b75e684647619ad7f71b" change="1657172057" id="E0045">
+      <type>Death</type>
+      <dateval val="1960"/>
+    </event>
+    <event handle="_f1267877bd874aabdd205507989" change="1657172076" id="E0046">
+      <type>Birth</type>
+      <dateval val="1900"/>
+      <description>kb</description>
+    </event>
+    <event handle="_f12b8dfa05f20fdc503a200f2d0" change="1658390789" id="E0047">
+      <type>Death</type>
+      <dateval val="1991-04-08"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f12b8fecea35f81c23ba5472ea7" change="1657308753" id="E0048">
+      <type>Birth</type>
+      <description>márc</description>
+    </event>
+    <event handle="_f12b90cc64411248f8ec1eb98cf" change="1658391788" id="E0049">
+      <type>Birth</type>
+      <dateval val="1976-11-04"/>
+      <place hlink="_f153e8896097033d1fc3c0e9bfb"/>
+    </event>
+    <event handle="_f12b921b9a03378a9c51030a457" change="1657308982" id="E0050">
+      <type>Birth</type>
+      <dateval val="1959-02-07"/>
+    </event>
+    <event handle="_f12b92be1047a29419fd10ca54d" change="1658600156" id="E0051">
+      <type>Birth</type>
+      <dateval val="1955-05-09"/>
+      <place hlink="_f153e8896097033d1fc3c0e9bfb"/>
+      <description>a mentőben született</description>
+    </event>
+    <event handle="_f12ba55761612547eabbcb482f" change="1659505611" id="E0052">
+      <type>Birth</type>
+      <dateval val="1876-03-25"/>
+      <place hlink="_f17d66c8bfa657c620128a9f765"/>
+      <description>keresztszülők: Josephus Lázár és Maria Maczko</description>
+    </event>
+    <event handle="_f12bac95f2757c7258b74aa7b9e" change="1658848808" id="E0053">
+      <type>Birth</type>
+      <dateval val="1925-10-25"/>
+      <place hlink="_f164ef04a3c3ba1f20c97dc922d"/>
+    </event>
+    <event handle="_f12d43386de2a535055c738e9b6" change="1657354397" id="E0054">
+      <type>Birth</type>
+      <dateval val="1943-04-10"/>
+    </event>
+    <event handle="_f12d43e8dde7fced31612dcb58c" change="1657354469" id="E0055">
+      <type>Birth</type>
+      <dateval val="1976-11"/>
+    </event>
+    <event handle="_f12d471e7cf5ed573640e816e66" change="1657354806" id="E0056">
+      <type>Birth</type>
+      <dateval val="1972-02-11"/>
+    </event>
+    <event handle="_f12d49382a7674ceda435d1b430" change="1657355026" id="E0057">
+      <type>Birth</type>
+      <dateval val="1949-04-07"/>
+    </event>
+    <event handle="_f12d4aaba55761e87a609c266ca" change="1657355178" id="E0058">
+      <type>Birth</type>
+      <dateval val="2018-04-05"/>
+    </event>
+    <event handle="_f12d4bce1304e94e1cd5e9fd3d7" change="1657355297" id="E0059">
+      <type>Birth</type>
+      <dateval val="2004-06-07"/>
+    </event>
+    <event handle="_f12d4dc9dee6c7bfc0c06708074" change="1657355505" id="E0060">
+      <type>Birth</type>
+      <dateval val="1930"/>
+      <description>kb</description>
+    </event>
+    <event handle="_f12d4e77f6b4a419381ffcbc334" change="1657999448" id="E0061">
+      <type>Birth</type>
+      <dateval val="1928-01-27"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f12d4ee054a46c4b02ce45bc174" change="1661698107" id="E0062">
+      <type>Death</type>
+      <dateval val="2017-12-12"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f12d53ce0973b86f5cf739cda31" change="1657356136" id="E0063">
+      <type>Birth</type>
+      <dateval val="1980-01-24"/>
+    </event>
+    <event handle="_f12d555c6525ec9c0234a43923e" change="1657356299" id="E0064">
+      <type>Birth</type>
+      <dateval val="1959-11-10"/>
+    </event>
+    <event handle="_f12d57198f77d35e5cdb3509e55" change="1657356481" id="E0065">
+      <type>Birth</type>
+      <dateval val="1940"/>
+      <description>kb</description>
+    </event>
+    <event handle="_f12d57d9dc4601e434f1386fbf" change="1657356560" id="E0066">
+      <type>Birth</type>
+      <dateval val="1998-03-13"/>
+      <description>kb</description>
+    </event>
+    <event handle="_f12d5a449a12c24b99128677722" change="1657356814" id="E0067">
+      <type>Birth</type>
+      <dateval val="1991-05-30"/>
+    </event>
+    <event handle="_f12d66f7dbe99a94f7b962597e" change="1657358169" id="E0068">
+      <type>Marriage</type>
+      <dateval val="1970"/>
+      <description>Majtány Tibor</description>
+    </event>
+    <event handle="_f12d675c77b633769623e545f6d" change="1657358187" id="E0069">
+      <type>Divorce</type>
+      <dateval val="1971"/>
+    </event>
+    <event handle="_f12d67a397bdde070c112d18e3" change="1657358216" id="E0070">
+      <type>Marriage</type>
+      <dateval val="1975"/>
+      <description>Kormon Géza</description>
+    </event>
+    <event handle="_f12d6b539203d5afd813774387a" change="1657358602" id="E0071">
+      <type>Divorce</type>
+      <dateval val="2020"/>
+    </event>
+    <event handle="_f12d6c66a307ec9bd4d691f5d47" change="1657999647" id="E0072">
+      <type>Divorce</type>
+      <dateval val="1954"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+      <description>határozat száma: 20621/1954/4 Horváth József sk.</description>
+    </event>
+    <event handle="_f1384f029856a445b38367e50a" change="1658601145" id="E0073">
+      <type>Marriage</type>
+      <dateval val="1996-07-20"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+      <objref hlink="_f1384013fe26b70fafbc726d683"/>
+    </event>
+    <event handle="_f144e1a047712788d23ad8dbd6e" change="1658258619" id="E0074">
+      <type>Birth</type>
+      <dateval val="1903-04-20"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f144e1bd5bc6381196d1f91c4e5" change="1658002715" id="E0075">
+      <type>Death</type>
+      <dateval val="1978-11-15"/>
+      <place hlink="_f1456a0bf4d577f29c1759605bb"/>
+    </event>
+    <event handle="_f144e204b294b0b3ba5d066b836" change="1658258890" id="E0076">
+      <type>Birth</type>
+      <dateval val="1907-11-30"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f144e2379621ef42b869a965bf7" change="1659530175" id="E0077">
+      <type>Death</type>
+      <dateval val="1969-01"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f144f41c2697f433506b15f7536" change="1657990347" id="E0078">
+      <type>Marriage</type>
+      <dateval val="1946-11-26"/>
+    </event>
+    <event handle="_f1451387fd4246986b1d55b1e2d" change="1657993641" id="E0079">
+      <type>Birth</type>
+      <dateval val="1893-03-03"/>
+      <description>Kiliti</description>
+    </event>
+    <event handle="_f1451550c577640f5bfa1a7f1e2" change="1657993829" id="E0080">
+      <type>Marriage</type>
+      <dateval val="1934-09-06"/>
+    </event>
+    <event handle="_f14515b9ca9373cf923263e96c6" change="1661945647" id="E0081">
+      <type>Marriage</type>
+      <dateval val="1934-09-06"/>
+    </event>
+    <event handle="_f145195c745135ef6b2ed7b51df" change="1657994253" id="E0082">
+      <type>Birth</type>
+      <dateval val="1892-08-18"/>
+    </event>
+    <event handle="_f146aa4a82118f51066754c5a19" change="1662817581" id="E0083">
+      <type>Marriage</type>
+      <dateval val="1927-01-29"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+      <description>03.2/1969</description>
+    </event>
+    <event handle="_f146e0ba2761c4068cf45424769" change="1658042001" id="E0084">
+      <type>Death</type>
+      <dateval val="2016"/>
+    </event>
+    <event handle="_f146e13ce5524faccf9e44d2398" change="1658042055" id="E0085">
+      <type>Death</type>
+      <dateval val="2017-03"/>
+    </event>
+    <event handle="_f1472cb72d54ac3b24603d031dd" change="1658258787" id="E0086">
+      <type>Birth</type>
+      <dateval val="1899-11-09"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f1472e394d27aeee5786f8f050e" change="1658258798" id="E0087">
+      <type>Marriage</type>
+      <dateval val="1923-11-23"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+      <description>özvegyként</description>
+    </event>
+    <event handle="_f14735d4d4978a1a743ba68deff" change="1658050925" id="E0088">
+      <type>Birth</type>
+      <dateval val="1899-02-14"/>
+    </event>
+    <event handle="_f1473a623584b6d6dc6cf26ed11" change="1658258816" id="E0089">
+      <type>Marriage</type>
+      <dateval val="1922-02-12"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f1473b55e417b818fb004cda92a" change="1658051502" id="E0090">
+      <type>Birth</type>
+      <dateval val="1897-10-12"/>
+    </event>
+    <event handle="_f1473c8dd881ab2ae7c7b0ac6a" change="1658051630" id="E0091">
+      <type>Marriage</type>
+      <dateval val="1922-02-12"/>
+    </event>
+    <event handle="_f1473cb9e6e377a3054554a1d7d" change="1658051648" id="E0092">
+      <type>Death</type>
+      <dateval val="1923"/>
+    </event>
+    <event handle="_f1473f4c3b168f4bcf661a5d4de" change="1658258503" id="E0093">
+      <type>Birth</type>
+      <dateval val="1893-12-04"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f14740519ea28252651e704a25c" change="1658258549" id="E0094">
+      <type>Marriage</type>
+      <dateval val="1914-02-22"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f147445bb5d4eb464dab69ae6f" change="1658258930" id="E0095">
+      <type>Birth</type>
+      <dateval val="1886-07-21"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f1474718ba77c1b767e56c4c671" change="1658258940" id="E0096">
+      <type>Marriage</type>
+      <dateval val="1914-02-22"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f14dcd895cc2dcb59142f5fe264" change="1658227894" id="E0097">
+      <type>Birth</type>
+      <place hlink="_f14dcd7670f2b958014817b828b"/>
+    </event>
+    <event handle="_f14dce0b5993700bf9a844c39bb" change="1658390482" id="E0098">
+      <type>Birth</type>
+      <place hlink="_f14dcd7670f2b958014817b828b"/>
+      <description>Balesetben fiatalon meghalt</description>
+    </event>
+    <event handle="_f14dced89c67a280206eb532c60" change="1658390520" id="E0099">
+      <type>Birth</type>
+      <place hlink="_f14dcd7670f2b958014817b828b"/>
+      <description>Háború alatt lövedéket kapott a lábába, katona volt</description>
+    </event>
+    <event handle="_f14dcf37600923ade0821c9365" change="1658390899" id="E0100">
+      <type>Birth</type>
+      <dateval val="1943"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f14dcfabc2213d06cf2dd1c1641" change="1658228118" id="E0101">
+      <type>Birth</type>
+      <dateval val="1934"/>
+    </event>
+    <event handle="_f14dcfbbcfa5b47cdc67c1d8a1b" change="1658228124" id="E0102">
+      <type>Death</type>
+      <dateval val="2010"/>
+    </event>
+    <event handle="_f14dd4fdc5e6936df2883252d2" change="1658390572" id="">
+      <type>Birth</type>
+      <dateval val="1907-03-15"/>
+      <place hlink="_f14dcd7670f2b958014817b828b"/>
+    </event>
+    <event handle="_f14dd5437d96db522e06ab881e6" change="1658390943" id="E0103">
+      <type>Death</type>
+      <dateval val="1990-10-27"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f14ec8d5482762cdd33bd2aae6" change="1658390957" id="E0104">
+      <type>Burial</type>
+      <dateval val="1990-11-07"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f14eca0f5a1c41596ac00c9bfd" change="1658254373" id="E0105">
+      <type>Birth</type>
+      <dateval val="1880-09-09"/>
+      <place hlink="_f14eca0448655d4f53bed67e9d8"/>
+    </event>
+    <event handle="_f14ecaca2684959916c0eac319" change="1658254449" id="E0106">
+      <type>Birth</type>
+      <dateval val="1885-03-07"/>
+      <place hlink="_f14ecac3bcb5ad17fd1e598eeb0"/>
+    </event>
+    <event handle="_f14ecb6f31f262b80d44d8aa312" change="1658424337" id="E0107">
+      <type>Marriage</type>
+      <dateval val="1905-01-08"/>
+      <place hlink="_f14dcd7670f2b958014817b828b"/>
+    </event>
+    <event handle="_f14ecc7f0516d901e4f69f0466b" change="1658424369" id="E0108">
+      <type>Marriage</type>
+      <dateval val="1905-01-08"/>
+      <place hlink="_f14dcd7670f2b958014817b828b"/>
+    </event>
+    <event handle="_f14ece17b006748675c403810ee" change="1658390756" id="E0109">
+      <type>Death</type>
+      <dateval val="1987-11-15"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f14ed59c4212bd666c1b41f7c39" change="1658390851" id="E0110">
+      <type>Death</type>
+      <dateval val="1971-12-10"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f15528da2fa12213ae8561ee29d" change="1661277914" id="E0111">
+      <type>Birth</type>
+      <dateval val="1867-02-21"/>
+      <place hlink="_f15528a8b5e24f6f121c07e15bc"/>
+    </event>
+    <event handle="_f1552a1144f7f63c6f03863f783" change="1661070548" id="E0112">
+      <type>Birth</type>
+      <dateval val="1864-09-24"/>
+      <place hlink="_f124ec2a6b067db97716fac30ef"/>
+    </event>
+    <event handle="_f1552af4c79155429cb8a82e15" change="1658425594" id="E0113">
+      <type>Birth</type>
+      <dateval val="1897-06-27"/>
+      <place hlink="_f124ec2a6b067db97716fac30ef"/>
+    </event>
+    <event handle="_f15538066025f38b680fb23a093" change="1658426965" id="E0114">
+      <type>Birth</type>
+      <dateval val="1900-04-15"/>
+      <place hlink="_f124ec2a6b067db97716fac30ef"/>
+    </event>
+    <event handle="_f1553cb064422b69df08881b64e" change="1658427454" id="E0115">
+      <type>Birth</type>
+      <dateval val="1891-01-15"/>
+    </event>
+    <event handle="_f1553d14163ce76c31e7f08a3" change="1658427495" id="E0116">
+      <type>Marriage</type>
+      <dateval val="1911-01-28"/>
+      <place hlink="_f1553d0e508425f59c067a1a9cc"/>
+    </event>
+    <event handle="_f1553ffcf3d48fc6fb747862f14" change="1658427800" id="E0117">
+      <type>Birth</type>
+      <dateval val="1892-03-01"/>
+    </event>
+    <event handle="_f15540cee057192648267239d1c" change="1658427886" id="E0118">
+      <type>Marriage</type>
+      <dateval val="1911-01-28"/>
+      <place hlink="_f1553d0e508425f59c067a1a9cc"/>
+    </event>
+    <event handle="_f15542406e4598fe72f96c94deb" change="1658428037" id="E0119">
+      <type>Birth</type>
+      <dateval val="1870"/>
+      <description>kb</description>
+    </event>
+    <event handle="_f15542a8d1910b96ccd73c280d6" change="1658428080" id="E0120">
+      <type>Birth</type>
+      <dateval val="1870"/>
+      <description>kb</description>
+    </event>
+    <event handle="_f1555ddcbe4213fa4968f489144" change="1658430949" id="E0121">
+      <type>Death</type>
+      <dateval val="2017-11"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f156e334abd4a5fe3aa6dac922e" change="1658472263" id="E0122">
+      <type>Birth</type>
+      <dateval val="1884-02"/>
+      <place hlink="_f14ecac3bcb5ad17fd1e598eeb0"/>
+      <description>Szőlősgyörök - itt vették be egyházi jegyzékbe</description>
+    </event>
+    <event handle="_f156e85c658951bbbfe7b08421" change="1658472299" id="E0123">
+      <type>Death</type>
+      <dateval val="1884-04-03"/>
+      <place hlink="_f14ecac3bcb5ad17fd1e598eeb0"/>
+    </event>
+    <event handle="_f156e8c5e411960077fe72966f6" change="1658472342" id="E0124">
+      <type>Burial</type>
+      <dateval val="1884-04-04"/>
+      <place hlink="_f14ecac3bcb5ad17fd1e598eeb0"/>
+    </event>
+    <event handle="_f15a8c4df927981907f873ac5f2" change="1658570020" id="E0125">
+      <type>Marriage</type>
+      <dateval val="1953-01"/>
+      <objref hlink="_f1383dcb951f85996817b9c7ca"/>
+    </event>
+    <event handle="_f164ef7cf9730829b4550b006eb" change="1658849195" id="E0126">
+      <type>Baptism</type>
+      <dateval val="1925-10-28"/>
+      <place hlink="_f164ef04a3c3ba1f20c97dc922d"/>
+      <description>keresztszülők: Vadász Gyula vendéglős, Vadász Matild hajadon; Reil Antal káplán</description>
+    </event>
+    <event handle="_f164f3a41056ebd00bc7bd05843" change="1658849291" id="E0127">
+      <type>Confirmation</type>
+      <dateval val="1938-05-07"/>
+      <place hlink="_f164ef04a3c3ba1f20c97dc922d"/>
+    </event>
+    <event handle="_f167f2998a763ed91689fba3528" change="1658929712" id="E0128">
+      <type>Birth</type>
+      <dateval val="1904-11-07"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f167f4a06875c1fff7aa65bf70d" change="1658933117" id="E0129">
+      <type>Birth</type>
+      <dateval val="1874-10-20"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f167f53b28b7d980430caf89d6b" change="1658929988" id="E0130">
+      <type>Marriage</type>
+      <dateval val="1899-01-17"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+      <description>laknak: Szőlőhegy</description>
+    </event>
+    <event handle="_f167f731dab34f20155e57bd080" change="1658930194" id="E0131">
+      <type>Birth</type>
+      <dateval val="1902-03-13"/>
+      <place hlink="_f153e8896097033d1fc3c0e9bfb"/>
+    </event>
+    <event handle="_f167f7a994766454fec7ae7d2ea" change="1658930243" id="E0132">
+      <type>Birth</type>
+      <dateval val="1907-03-04"/>
+      <place hlink="_f153e8896097033d1fc3c0e9bfb"/>
+    </event>
+    <event handle="_f168135be426e5a66ed4fc38594" change="1658933148" id="E0133">
+      <type>Death</type>
+      <dateval val="1958-07-22"/>
+      <place hlink="_f153e8896097033d1fc3c0e9bfb"/>
+    </event>
+    <event handle="_f16a5e6c3d86a061f4dc627544" change="1658994706" id="E0134">
+      <type>Birth</type>
+      <dateval val="1882-10-30"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f16a5ec435330827fd5ad86a191" change="1658994742" id="E0135">
+      <type>Baptism</type>
+      <dateval val="1882-10-31"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+      <description>keresztszülők: Elisabetha Szijártó uxor Joannis Kővágó vinicolae</description>
+    </event>
+    <event handle="_f16a60607cdec01216def98a29" change="1658994911" id="E0136">
+      <type>Marriage</type>
+      <dateval val="1869-01-12"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f16a635cd498b5c47d266522f5" change="1659018356" id="E0137">
+      <type>Birth</type>
+      <dateval val="1813-08-29"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f16aaeafefc4587fbb6176c8c18" change="1659003122" id="E0138">
+      <type>Birth</type>
+      <dateval val="1843-11-11"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f16b40469b12f8fc11651c6fc51" change="1659018388" id="E0139">
+      <type>Baptism</type>
+      <dateval val="1813-08-29"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f16b6a61694618bbb735e7a961a" change="1659022803" id="E0140">
+      <type>Marriage</type>
+      <dateval val="1838-01"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f16c389f983143126879c62e5cd" change="1659044728" id="E0141">
+      <type>Birth</type>
+      <dateval val="1837-07-02"/>
+      <place hlink="_f16c3898d9e6dbe01dcd5cbbb47"/>
+      <description>keresztszülők: Horváth csősz és hitvese Bálint Borbála</description>
+    </event>
+    <event handle="_f16c4bbcb573b3446c076a22218" change="1659046433" id="E0142">
+      <type>Death</type>
+      <dateval val="1901-01-16"/>
+      <place hlink="_f153e8896097033d1fc3c0e9bfb"/>
+    </event>
+    <event handle="_f16ef0d51e71a586bba6ad68f54" change="1659117432" id="E0143">
+      <type>Death</type>
+      <dateval val="1857-08-06"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+    </event>
+    <event handle="_f170d1dd76b36d1f6a538df7234" change="1659168345" id="E0144">
+      <type>Birth</type>
+      <dateval val="1818-06-21"/>
+      <place hlink="_f167f24beca1cf293aa8b8bea09"/>
+      <description>keresztszülők: Ladislaus Vicze, Elisabetha Kovács</description>
+    </event>
+    <event handle="_f17501910af45f43d47e9dc3b46" change="1659280248" id="E0145">
+      <type>Baptism</type>
+      <dateval val="1920-05-21"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+      <description>keresztszülők: Sebők Teréz, Király András meggyesi lakáj neje</description>
+    </event>
+    <event handle="_f1751155a905175f7dc458a5b73" change="1659281915" id="E0146">
+      <type>Birth</type>
+      <dateval val="1922-02-24"/>
+      <place hlink="_f1751133baf635a033e9c919fd3"/>
+    </event>
+    <event handle="_f17511cfe1c77877e5472f296be" change="1659281951" id="E0147">
+      <type>Baptism</type>
+      <dateval val="1922-02-26"/>
+      <description>keresztszülők: Sebők Teréz, Király András meggyes régi/sági lakas</description>
+    </event>
+    <event handle="_f1751269cc03dd4420020a4d7f" change="1659282095" id="E0148">
+      <type>Marriage</type>
+      <dateval val="1945-10-29"/>
+      <place hlink="_f1751263e417bea1c20f6a7822f"/>
+      <description>Keszte Jenő</description>
+    </event>
+    <event handle="_f1753604ac5709264132e3ce565" change="1659285748" id="E0149">
+      <type>Birth</type>
+      <dateval val="1894-05-25"/>
+      <place hlink="_f17535e54d72bb954487e01fb50"/>
+    </event>
+    <event handle="_f17536b6d3d60fc721b44ac5ba" change="1659289834" id="E0150">
+      <type>Marriage</type>
+      <dateval val="1918-09-14"/>
+      <place hlink="_f17536ae17130144d97ac6b264e"/>
+      <description>özv. Frühwirth Gyula</description>
+    </event>
+    <event handle="_f1755cd47a63449fd01babcd2f5" change="1659289818" id="E0151">
+      <type>Marriage</type>
+      <dateval val="1912-05-18"/>
+      <place hlink="_f17535e54d72bb954487e01fb50"/>
+      <description>Pálya István béres (szül 1889.07.14. lak Majanmiklós ház/Martinca puszta apa Pálya Mihály, anya Kis Zsófia); tanúk: Varga József Majzamiklós ház/Martinca puszta és Bérdi/Berta János Tamási</description>
+    </event>
+    <event handle="_f1755e2a63441212b34fd5c18f1" change="1659289958" id="E0152">
+      <type>Birth</type>
+      <dateval val="1883-10-18"/>
+      <place hlink="_f1755e1f32010039b41fa823837"/>
+    </event>
+    <event handle="_f1755ea24ae6575514403869d02" change="1659290024" id="E0153">
+      <type>Marriage</type>
+      <dateval val="1907-10-26"/>
+      <place hlink="_f17535e54d72bb954487e01fb50"/>
+      <description>Csóri Mária özv.</description>
+    </event>
+    <event handle="_f1755f7374b1a6ac16a8396a07f" change="1660251442" id="E0154">
+      <type>Death</type>
+      <dateval val="1906-03-17"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+      <description>Bejelentő: apa Péter, lakhely Szemere</description>
+    </event>
+    <event handle="_f1755feb7d4793c02ddfc41505c" change="1659290142" id="E0155">
+      <type>Marriage</type>
+      <dateval val="1905-03-06"/>
+      <description>Csóri Mária özv. szül 1886.07.27. lak Szemcse, szül Szemcse</description>
+    </event>
+    <event handle="_f17565d1bffe59897ef0160618" change="1659290760" id="E0156">
+      <type>Birth</type>
+      <dateval val="1886-02-22"/>
+      <place hlink="_f1755e1f32010039b41fa823837"/>
+    </event>
+    <event handle="_f1757751baf679595748deb611a" change="1660216502" id="E0157">
+      <type>Death</type>
+      <dateval val="1928-06-08"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+      <description>szívbaj, másnap temetés</description>
+    </event>
+    <event handle="_f175777ca6c7b3054c959ff5379" change="1659292613" id="E0158">
+      <type>Birth</type>
+      <dateval val="1856"/>
+      <place hlink="_f17501ba630292306a6776438e"/>
+    </event>
+    <event handle="_f17bbab62af190ca2fe07b641a" change="1659460744" id="E0159">
+      <type>Marriage</type>
+      <dateval val="1918-09-14"/>
+      <place hlink="_f17536ae17130144d97ac6b264e"/>
+      <description>Kapoli Anna özv.</description>
+    </event>
+    <event handle="_f17d4ba5702a7c172709ac4d95" change="1659519875" id="E0160">
+      <type>Death</type>
+      <dateval val="1943-07-06"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+      <description>69 éves</description>
+    </event>
+    <event handle="_f17d4c749d85f419cd9d2d2b6ee" change="1659502849" id="E0161">
+      <type>Marriage</type>
+      <description>Vámi Mihály</description>
+    </event>
+    <event handle="_f17d50f5660194f51ea237ea33d" change="1659503334" id="E0162">
+      <type>Marriage</type>
+      <dateval val="1906-10-27"/>
+      <place hlink="_f153e8896097033d1fc3c0e9bfb"/>
+      <description>Radics Mária</description>
+    </event>
+    <event handle="_f17d51cb8674bc4e65aa5f86e93" change="1659503409" id="E0163">
+      <type>Marriage</type>
+      <dateval val="1913-06-09"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+      <description>Kiss Lajos</description>
+    </event>
+    <event handle="_f17d69925dc24d4d75b902a0c5e" change="1659505902" id="E0164">
+      <type>Birth</type>
+      <dateval val="1831-07-25"/>
+      <place hlink="_f17d66c8bfa657c620128a9f765"/>
+    </event>
+    <event handle="_f17d72c8d251dd26805154299bd" change="1661279948" id="E0165">
+      <type>Birth</type>
+      <dateval val="1847-05-06"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+    </event>
+    <event handle="_f17dc1a1df55667bae5446ad045" change="1659885776" id="E0166">
+      <type>Birth</type>
+      <dateval val="1853"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+    </event>
+    <event handle="_f17de841fd659b88da669c2ca79" change="1659519271" id="E0167">
+      <type>Death</type>
+      <dateval val="1913-03-31"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+      <description>61 éves</description>
+    </event>
+    <event handle="_f17def13ece54f7b6b21fdf9333" change="1663579449" id="E0168">
+      <type>Birth</type>
+      <dateval val="1872"/>
+    </event>
+    <event handle="_f17df3c5ae746a26b759b9c2e3b" change="1659520393" id="E0169">
+      <type>Death</type>
+      <dateval val="1907-12-04"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+      <description>másnap temették, 77 éves volt</description>
+    </event>
+    <event handle="_f17df3e9ec531423d4c8d0f09c5" change="1661274231" id="E0170">
+      <type>Birth</type>
+      <dateval val="1830"/>
+      <place hlink="_f1bf47228c97b61288abc74c56c"/>
+    </event>
+    <event handle="_f18b8f55f3515cef9fd1ae8d24" change="1662912023" id="E0171">
+      <type>Death</type>
+      <dateval val="1932-03-10"/>
+      <place hlink="_f1751263e417bea1c20f6a7822f"/>
+      <description>lak: Inám puszta, Gölle</description>
+    </event>
+    <event handle="_f1992ec472c346ac1dcdf4ca575" change="1660251470" id="E0172">
+      <type>Birth</type>
+      <dateval val="1881"/>
+      <place hlink="_f1992fd7618313b8718401029ec"/>
+    </event>
+    <event handle="_f199320a9115b3539b63ddd35f" change="1660251699" id="E0173">
+      <type>Death</type>
+      <dateval val="1947-09-15"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+    </event>
+    <event handle="_f1993362f8137e3c2d50799e328" change="1660476975" id="E0174">
+      <type>Birth</type>
+      <dateval val="1859-01-15"/>
+      <place hlink="_f164ef04a3c3ba1f20c97dc922d"/>
+    </event>
+    <event handle="_f1993544c641c2886c63be19820" change="1660252037" id="E0175">
+      <type>Death</type>
+      <dateval val="1909-08-01"/>
+      <place hlink="_f17536ae17130144d97ac6b264e"/>
+    </event>
+    <event handle="_f1a15aa78c167f52205d65c154e" change="1660470705" id="E0176">
+      <type>Death</type>
+      <dateval val="1967-10-27"/>
+      <place hlink="_f1a15aa01c5227a189cd306d2b1"/>
+    </event>
+    <event handle="_f1a15be85f914e8dec2348efd71" change="1660470837" id="E0177">
+      <type>Marriage</type>
+      <dateval val="1928"/>
+      <place hlink="_f153e8896097033d1fc3c0e9bfb"/>
+    </event>
+    <event handle="_f1a1db81b37370c35433215eedc" change="1660484217" id="E0178">
+      <type>Birth</type>
+      <dateval val="1856-01-05"/>
+      <place hlink="_f164ef04a3c3ba1f20c97dc922d"/>
+    </event>
+    <event handle="_f1a1dbd8fdf5d5bc94e9915a87b" change="1660484252" id="E0179">
+      <type>Baptism</type>
+      <dateval val="1856-01-06"/>
+      <description>lak: Kocsola nr: 138, keresztszülők: Franciscus Gábor M. custos procki in Pula és Rosina Balázs/Balágy</description>
+    </event>
+    <event handle="_f1a1dc9c3a51676d6acfcde3d31" change="1661939071" id="E0180">
+      <type>Birth</type>
+      <dateval val="1857-10-03"/>
+      <place hlink="_f164ef04a3c3ba1f20c97dc922d"/>
+      <description>keresztszülők: Franciscus Gábor M.  custos/eustos proudi: in Pula/Bula/Buda , Rosina Balázs/Balágy, lak: kocsola nr: 5.</description>
+    </event>
+    <event handle="_f1b7b4ce93749060a85da76fa7a" change="1661070717" id="E0181">
+      <type>Marriage</type>
+      <dateval val="1890-01-12"/>
+      <place hlink="_f1b7b456a4a2f43efddf4d2d99b"/>
+      <description>HJ szül Német-Egres lak Osztopán 25 éves, ZÖ szül Szentgáloskér lak Kér 25 éves, tanúk: Jurátovics János gépész és Ivusza János fmíves (nem zsellér, nem béres)</description>
+    </event>
+    <event handle="_f1bf47274ae555dff83395a3626" change="1661945430" id="E0182">
+      <type>Marriage</type>
+      <dateval val="1851-02-19"/>
+      <place hlink="_f1bf47228c97b61288abc74c56c"/>
+    </event>
+    <event handle="_f1bf47f40cb17ea3854a8783849" change="1661274063" id="E0183">
+      <type>Birth</type>
+      <dateval val="1823"/>
+      <place hlink="_f175017153f3fa56b14fe46d662"/>
+    </event>
+    <event handle="_f1cf13b46aa2c788e247d442044" change="1661698069" id="E0184">
+      <type>Burial</type>
+      <dateval val="2017-12-07"/>
+      <place hlink="_f1454cc942e4e600b45ca5903d2"/>
+    </event>
+    <event handle="_f1cf148451663fc36dccc5c43d9" change="1661698154" id="E0185">
+      <type>Burial</type>
+      <dateval val="2017-12-28"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f1cf15bc1853b928d93fbaaa732" change="1661698282" id="E0186">
+      <type>Birth</type>
+      <dateval val="1834"/>
+    </event>
+    <event handle="_f1dc7cfe081663cbb503ee2e0ea" change="1662097959" id="E0187">
+      <type>Birth</type>
+      <dateval val="1857-12-21"/>
+      <place hlink="_f1dc7cf923642dd5772c501831d"/>
+      <description>keresztelés ugyanezen a napon, keresztszülei: Franciscus Vincze és Anna Dán colonus</description>
+    </event>
+    <event handle="_f1dc7d81f3a6d7aa662781228f9" change="1662111638" id="E0188">
+      <type>Birth</type>
+      <dateval val="1868-02-29"/>
+      <place hlink="_f1dc7d7f2caaa69570610a6f42"/>
+    </event>
+    <event handle="_f1e8d8dd748bb6469d54fafc86" change="1662389831" id="E0189">
+      <type>Death</type>
+      <dateval val="1912-05-03"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f1e8d9976424a9b9043cdbd12c3" change="1662389908" id="E0190">
+      <type>Birth</type>
+      <dateval val="1838"/>
+    </event>
+    <event handle="_f1e8dd26f655f7ba818dffa8f2a" change="1662390281" id="E0191">
+      <type>Death</type>
+      <dateval val="1946-03-15"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f1f8d94dc2b225a1bfaa92e177a" change="1662819665" id="E0192">
+      <type>Birth</type>
+      <dateval val="1914-05-06"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+      <description>Faluhidvég - Enying körzete</description>
+    </event>
+    <event handle="_f1f8da1aaef335f81b4a8110bb9" change="1662819458" id="E0193">
+      <type>Marriage</type>
+      <dateval val="1935-02-10"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+      <description>Bíró János, tanúk: Puska István, Jakab György</description>
+    </event>
+    <event handle="_f1f8de4ebfe5edff88287a7cec3" change="1663443567" id="E0194">
+      <type>Death</type>
+      <dateval val="1930-10-29"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+      <description>Szántó Erzsébet férje, egy másik György 1914 előtt halt meg</description>
+    </event>
+    <event handle="_f1f941550324890f950c49b7cd5" change="1662834423" id="E0195">
+      <type>Birth</type>
+      <datestr val="1882-1884"/>
+      <place hlink="_f1f96575ec0849d3752bf670b6"/>
+      <description>Nagy-kustyán puszta</description>
+    </event>
+    <event handle="_f1f941fe8c63f12fa8b33b70960" change="1663575918" id="E0196">
+      <type>Birth</type>
+      <dateval val="1888-01-29"/>
+      <place hlink="_f1f96575ec0849d3752bf670b6"/>
+      <description>a halottin Szakol/Szakal helység szerepel, mint születés helye</description>
+    </event>
+    <event handle="_f1f965af10b6087f2a6cab4ff76" change="1662834094" id="E0197">
+      <type>Marriage</type>
+      <dateval val="1907-01-13"/>
+      <place hlink="_f1f965a4c812b862f0b15e701fb"/>
+    </event>
+    <event handle="_f21015d0a93467a09d3ffb42452" change="1663443121" id="E0198">
+      <type>Birth</type>
+      <dateval val="1858"/>
+    </event>
+    <event handle="_f210161beb94b535859fa8d0243" change="1663443152" id="E0199">
+      <type>Death</type>
+      <dateval val="1924-09-26"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f213027a35513e495d1dade4248" change="1663521624" id="E0200">
+      <type>Birth</type>
+    </event>
+    <event handle="_f213029d11511142e0ba14f6672" change="1663521638" id="E0201">
+      <type>Birth</type>
+      <dateval val="1851"/>
+    </event>
+    <event handle="_f21303578ac2bab36d63747c84d" change="1663521714" id="E0202">
+      <type>Death</type>
+      <dateval val="1925-01-18"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f21303919997896f22697564c91" change="1663521738" id="E0203">
+      <type>Birth</type>
+      <dateval val="1851"/>
+    </event>
+    <event handle="_f213104c54422ab66a139a980fd" change="1663523073" id="E0204">
+      <type>Birth</type>
+      <dateval val="1880"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f213170c97a2e241e09e10b0207" change="1663523781" id="E0205">
+      <type>Death</type>
+      <dateval val="1929-04-24"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f2131806c205811a1090344761a" change="1663523883" id="E0206">
+      <type>Birth</type>
+      <dateval val="1853"/>
+    </event>
+    <event handle="_f21329430405a2c3fd003d96977" change="1663525690" id="E0207">
+      <type>Death</type>
+      <dateval val="1932-03-31"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+    <event handle="_f2132a3d9813fb03e16647be599" change="1663525793" id="E0208">
+      <type>Birth</type>
+      <dateval val="1854"/>
+    </event>
+    <event handle="_f21507c9ccc58ebebac27600226" change="1663575868" id="E0209">
+      <type>Death</type>
+      <dateval val="1966-07-25"/>
+      <place hlink="_f1454ad6e212b8a56faaf07a0a4"/>
+    </event>
+  </events>
+  <people home="_f104d6a19ca6c2805938c329493">
+    <person handle="_f104d6a19ca6c2805938c329493" change="1662900537" id="I0000">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Annamária Márta</first>
+        <surname>Füredi</surname>
+      </name>
+      <eventref hlink="_f124d657ebd68ab441fa262873e" role="Primary"/>
+      <objref hlink="_f146a1ab5582a648347b5619978"/>
+      <attribute type="Occupation" value="fordító"/>
+      <attribute type="Occupation" value="üzleti elemző">
+        <noteref hlink="_f1fbdeeb8eb66dbbce30f596a0f"/>
+      </attribute>
+      <childof hlink="_f104d7432b17be05bc8f0434d04"/>
+    </person>
+    <person handle="_f104d758b5d6fdfba5997cdb9fe" change="1658600963" id="I0001">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József Attila</first>
+        <surname>Füredi</surname>
+      </name>
+      <eventref hlink="_f124d602af037281fd54aa7f41b" role="Primary"/>
+      <eventref hlink="_f124da525196515897ff4f8bd50" role="Primary"/>
+      <eventref hlink="_f1266061c85c1e36a23261a7ea" role="Primary"/>
+      <address>
+        <city>Gyulaj</city>
+      </address>
+      <address>
+        <datestr val="from 1974 to 2022"/>
+        <city>Kaposvár</city>
+      </address>
+      <childof hlink="_f104ddffdd4685b8d781e9b8bdd"/>
+      <parentin hlink="_f104d7432b17be05bc8f0434d04"/>
+    </person>
+    <person handle="_f104d78f0e7574f02e1ef6067f9" change="1661707715" id="I0002">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Márta</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f124d7e7c022dfe59e2822fbff0" role="Primary"/>
+      <objref hlink="_f1383a6e8b155327d9ce18c1c51"/>
+      <objref hlink="_f1383aeb4bc425b10cff9181c60"/>
+      <address>
+        <street>Petőfi u. 23. III. em. 10. ajtó</street>
+        <city>Kaposvár</city>
+      </address>
+      <address>
+        <dateval val="1976"/>
+        <street>Hegyi u. 5.</street>
+        <city>Kaposvár</city>
+      </address>
+      <attribute type="education" value="Noszlopy Gáspár Közgazdasági Szakközépiskola, Lenin u. 2."/>
+      <childof hlink="_f104dd53c691272c63bd3bc3094"/>
+      <parentin hlink="_f104d7432b17be05bc8f0434d04"/>
+    </person>
+    <person handle="_f104d7cadc225a0638bba88f31f" change="1658600539" id="I0003">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Nóra</first>
+        <surname>Füredi</surname>
+      </name>
+      <eventref hlink="_f124d693b3d6c245ee118e2d413" role="Primary"/>
+      <objref hlink="_f1383f344f72294adf2834567e6"/>
+      <objref hlink="_f1383f8e7262cb1fb6a19b32146"/>
+      <address>
+        <datestr val="from 1982 to 2010"/>
+        <street>Petőfi u. 23. III. em. 10. ajtó</street>
+        <city>Kaposvár</city>
+        <postal>7400</postal>
+      </address>
+      <address>
+        <datestr val="from 2018 to 2022"/>
+        <street>Dózsa telep 7.</street>
+        <city>Kaposszerdahely</city>
+      </address>
+      <childof hlink="_f104d7432b17be05bc8f0434d04"/>
+      <parentin hlink="_f104dbe9fdd58a449a36b8a1f54"/>
+    </person>
+    <person handle="_f104d8750cd7cbe3ebb7cf4c40a" change="1656269901" id="I0004">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Levente</first>
+        <surname>Szilágyi</surname>
+      </name>
+      <eventref hlink="_f104d9352777ba296c7215dcc00" role="Primary"/>
+      <childof hlink="_f104dbe9fdd58a449a36b8a1f54"/>
+    </person>
+    <person handle="_f104dc173da35a859219c04c0b7" change="1657132995" id="I0005">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ádám</first>
+        <surname>Szilágyi</surname>
+      </name>
+      <eventref hlink="_f125038466b672d217b28b938db" role="Primary"/>
+      <childof hlink="_f124e54489f3b30f9c75ac471da"/>
+      <parentin hlink="_f104dbe9fdd58a449a36b8a1f54"/>
+    </person>
+    <person handle="_f104dd721362b0b0c1102e8e59b" change="1658570025" id="I0006">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ferenc</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f124d742f4468719e03f589063e" role="Primary"/>
+      <eventref hlink="_f12b8dfa05f20fdc503a200f2d0" role="Primary"/>
+      <eventref hlink="_f15a8c4df927981907f873ac5f2" role="Primary"/>
+      <objref hlink="_f1383dcb951f85996817b9c7ca"/>
+      <childof hlink="_f124ee46d0f7a722d3e5ce044ae"/>
+      <parentin hlink="_f104dd53c691272c63bd3bc3094"/>
+    </person>
+    <person handle="_f104dd95883a5c95c709df36bd" change="1661698071" id="I0007">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Rózsa</first>
+        <surname>Jakab</surname>
+      </name>
+      <eventref hlink="_f124d8888a03cdb828837ca1c07" role="Primary"/>
+      <eventref hlink="_f124d94d84c25ff017484506232" role="Primary"/>
+      <eventref hlink="_f124d9c88f71c92106d080fe312" role="Primary"/>
+      <eventref hlink="_f1cf13b46aa2c788e247d442044" role="Primary"/>
+      <objref hlink="_f1383da7633642b0ecabfa0ca"/>
+      <objref hlink="_f1383dcb951f85996817b9c7ca"/>
+      <objref hlink="_f1383d48ad8f0471736e7d0223"/>
+      <childof hlink="_f124e41cee86dab15beab99e482"/>
+      <parentin hlink="_f104dd53c691272c63bd3bc3094"/>
+    </person>
+    <person handle="_f104de082b342161ebdde5cc7be" change="1663579509" id="I0008">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Füredi</surname>
+      </name>
+      <name alt="1" type="Also Known As">
+        <first>Frühwirth</first>
+        <surname></surname>
+      </name>
+      <eventref hlink="_f124d4a7cfa600c0875ac3e724d" role="Primary"/>
+      <eventref hlink="_f17501910af45f43d47e9dc3b46" role="Primary"/>
+      <objref hlink="_f1383c79f5e12c48fd2b06bbde7"/>
+      <address>
+        <city>Gyulaj</city>
+      </address>
+      <address>
+        <city>Gyulaj</city>
+      </address>
+      <childof hlink="_f12ba4f8d04149383a1123f513"/>
+      <parentin hlink="_f104ddffdd4685b8d781e9b8bdd"/>
+    </person>
+    <person handle="_f104de2820b36c905823e139f82" change="1658939465" id="I0009">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Etelka Mária</first>
+        <surname>Molnár</surname>
+      </name>
+      <eventref hlink="_f12bac95f2757c7258b74aa7b9e" role="Primary"/>
+      <eventref hlink="_f146e13ce5524faccf9e44d2398" role="Primary"/>
+      <eventref hlink="_f164ef7cf9730829b4550b006eb" role="Primary"/>
+      <eventref hlink="_f164f3a41056ebd00bc7bd05843" role="Primary"/>
+      <objref hlink="_f1383c10fe83da539f4c7b2a712"/>
+      <childof hlink="_f124db8ebd36e7d5b008442d894"/>
+      <parentin hlink="_f104ddffdd4685b8d781e9b8bdd"/>
+    </person>
+    <person handle="_f124cc5b5f51338e1e80704cc79" change="1657650918" id="I0010">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Tünde</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f124d846cda62d2d99bb3936acf" role="Primary"/>
+      <eventref hlink="_f1384f029856a445b38367e50a" role="Primary"/>
+      <objref hlink="_f1383fdeb98468e1ae4ee39e6fc"/>
+      <objref hlink="_f1384043c5726bfabd2411eb6e1"/>
+      <objref hlink="_f1384013fe26b70fafbc726d683"/>
+      <childof hlink="_f104dd53c691272c63bd3bc3094"/>
+      <parentin hlink="_f124cf7044d3a2d302162555acf"/>
+    </person>
+    <person handle="_f124cceb5d4a2e27f4141b3970" change="1657650340" id="I0011">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Márton</first>
+        <surname>Kutas</surname>
+      </name>
+      <eventref hlink="_f124db4651433f64e894cc504a3" role="Primary"/>
+      <objref hlink="_f1383e476cb4c8a39d64f2e98d0"/>
+      <objref hlink="_f1383e0ab4c1b0e45ce33acb097"/>
+      <childof hlink="_f124cf7044d3a2d302162555acf"/>
+    </person>
+    <person handle="_f124cd384fa60f5b8d84bb9845b" change="1657128723" id="I0012">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Júlia</first>
+        <surname>Kutas</surname>
+      </name>
+      <eventref hlink="_f124db0346d7d26e1e0e432164e" role="Primary"/>
+      <childof hlink="_f124cf7044d3a2d302162555acf"/>
+    </person>
+    <person handle="_f124cdbbc2741114d3b58fe23d" change="1657650449" id="I0013">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Gábor</first>
+        <surname>Kutas</surname>
+      </name>
+      <eventref hlink="_f124dac5b6a31759d7bc2e73bc4" role="Primary"/>
+      <objref hlink="_f1384013fe26b70fafbc726d683"/>
+      <parentin hlink="_f124cf7044d3a2d302162555acf"/>
+    </person>
+    <person handle="_f124db9531d27051496db07c1d0" change="1658939449" id="I0015">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Mihály</first>
+        <surname>Molnár</surname>
+      </name>
+      <parentin hlink="_f124db8ebd36e7d5b008442d894"/>
+      <parentin hlink="_f124dc8f53e294cb4ce414ad43b"/>
+    </person>
+    <person handle="_f124dc23c926c3aad65f9e49fc7" change="1658939465" id="I0016">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Erzsébet</first>
+        <surname>Molnár</surname>
+      </name>
+      <eventref hlink="_f124dd7afdcc0319948af42f7a" role="Primary"/>
+      <eventref hlink="_f146e0ba2761c4068cf45424769" role="Primary"/>
+      <objref hlink="_f1383d2563c12efd06c19f9a724"/>
+      <objref hlink="_f1383b9e5cd5434dd66dbd4b678"/>
+      <childof hlink="_f124dc8f53e294cb4ce414ad43b"/>
+      <parentin hlink="_f124deac940645364aa1c0a8d4"/>
+    </person>
+    <person handle="_f124dc9cc2219e39fc77be1b16a" change="1661887621" id="I0017">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Erzsébet</first>
+        <surname>Komlósi</surname>
+      </name>
+      <parentin hlink="_f124dc8f53e294cb4ce414ad43b"/>
+    </person>
+    <person handle="_f124de69ad02734a9be998fb982" change="1657129413" id="I0018">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Szilvia</first>
+        <surname>Bolla</surname>
+      </name>
+      <eventref hlink="_f124dfd3e9f49bd30441102c6dd" role="Primary"/>
+      <childof hlink="_f124deac940645364aa1c0a8d4"/>
+    </person>
+    <person handle="_f124deb1e5f54dafff7a0e43250" change="1657129147" id="I0019">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Zsigmond</first>
+        <surname>Bolla</surname>
+      </name>
+      <eventref hlink="_f124df0a2d53aded03ee92eb581" role="Primary"/>
+      <parentin hlink="_f124deac940645364aa1c0a8d4"/>
+    </person>
+    <person handle="_f124df28a473e0b6bb42fd6132c" change="1657129413" id="I0020">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Zsigmond</first>
+        <surname prefix="ifj.">Bolla</surname>
+      </name>
+      <eventref hlink="_f124df7a8ae2063a9f4e4b4de73" role="Primary"/>
+      <childof hlink="_f124deac940645364aa1c0a8d4"/>
+    </person>
+    <person handle="_f124e4234f72b02646404dc96e6" change="1658036295" id="I0022">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname>Jakab</surname>
+      </name>
+      <eventref hlink="_f144e1a047712788d23ad8dbd6e" role="Primary"/>
+      <eventref hlink="_f144e1bd5bc6381196d1f91c4e5" role="Primary"/>
+      <eventref hlink="_f146aa4a82118f51066754c5a19" role="Primary"/>
+      <childof hlink="_f14513f6de32cd8bcfa9b64a372"/>
+      <parentin hlink="_f124e41cee86dab15beab99e482"/>
+    </person>
+    <person handle="_f124e45ae411effa3ff69f3c9cc" change="1658036359" id="I0023">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Erzsébet</first>
+        <surname>Berkes</surname>
+      </name>
+      <eventref hlink="_f144e204b294b0b3ba5d066b836" role="Primary"/>
+      <eventref hlink="_f144e2379621ef42b869a965bf7" role="Primary"/>
+      <childof hlink="_f146aa8531d3c89f88bfe1d5fcc"/>
+      <parentin hlink="_f124e41cee86dab15beab99e482"/>
+    </person>
+    <person handle="_f124e549161582943a7358f660d" change="1657129822" id="I0024">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>András</first>
+        <surname>Szilágyi</surname>
+      </name>
+      <parentin hlink="_f124e54489f3b30f9c75ac471da"/>
+    </person>
+    <person handle="_f124e562b6875b25ad32991dff6" change="1657129822" id="I0025">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Török</surname>
+      </name>
+      <parentin hlink="_f124e54489f3b30f9c75ac471da"/>
+    </person>
+    <person handle="_f124ee4bff25b19ed5636c5b5cd" change="1658255648" id="I0026">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ferenc</first>
+        <surname prefix="id.">Harsányi</surname>
+      </name>
+      <eventref hlink="_f124fc8e3662b3cef81bd031a6f" role="Primary"/>
+      <eventref hlink="_f14ed59c4212bd666c1b41f7c39" role="Primary"/>
+      <childof hlink="_f14ed5c60142708f7b817b46656"/>
+      <parentin hlink="_f124ee46d0f7a722d3e5ce044ae"/>
+    </person>
+    <person handle="_f124ee66cf12779cfcd3b1f005d" change="1658254526" id="I0027">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Papp/Pap</surname>
+      </name>
+      <eventref hlink="_f14dd4fdc5e6936df2883252d2" role="Primary"/>
+      <eventref hlink="_f14dd5437d96db522e06ab881e6" role="Primary"/>
+      <eventref hlink="_f14ec8d5482762cdd33bd2aae6" role="Primary"/>
+      <childof hlink="_f14ec969d62485796e9eab8b047"/>
+      <parentin hlink="_f124ee46d0f7a722d3e5ce044ae"/>
+    </person>
+    <person handle="_f124efefed164212f78d9d88bf9" change="1658601030" id="I0028">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Irén</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f124f100b6e6920220e326ea6dc" role="Primary"/>
+      <address>
+        <city>Kaposvár</city>
+      </address>
+      <childof hlink="_f124ee46d0f7a722d3e5ce044ae"/>
+      <parentin hlink="_f124f485b1b44fcf027fd36afaa"/>
+    </person>
+    <person handle="_f124f0298d21f9f7b91ede8c069" change="1658254800" id="I0029">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>István</first>
+        <surname prefix="id.">Harsányi</surname>
+      </name>
+      <eventref hlink="_f12670cae70353c8d0a2b85b538" role="Primary"/>
+      <eventref hlink="_f14ece17b006748675c403810ee" role="Primary"/>
+      <childof hlink="_f124ee46d0f7a722d3e5ce044ae"/>
+      <parentin hlink="_f124fa4c139fcb930c97bbd64"/>
+    </person>
+    <person handle="_f124f05bfa727b49e832d94382a" change="1658228126" id="I0030">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f14dcfabc2213d06cf2dd1c1641" role="Primary"/>
+      <eventref hlink="_f14dcfbbcfa5b47cdc67c1d8a1b" role="Primary"/>
+      <childof hlink="_f124ee46d0f7a722d3e5ce044ae"/>
+      <parentin hlink="_f124ffb22a9a63eb3bb4ff1d57"/>
+    </person>
+    <person handle="_f124f174bd53d75075cae1a8c6b" change="1657131423" id="I0031">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname>Marics</surname>
+      </name>
+      <eventref hlink="_f124f1dc98559bd4bf3e282ff02" role="Primary"/>
+      <parentin hlink="_f124f485b1b44fcf027fd36afaa"/>
+    </person>
+    <person handle="_f124f1f570a3f67f091b6debf7" change="1657171171" id="I0032">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mónika</first>
+        <surname>Marics</surname>
+      </name>
+      <eventref hlink="_f124f2ae5351573ac3f037b3335" role="Primary"/>
+      <childof hlink="_f124f485b1b44fcf027fd36afaa"/>
+      <parentin hlink="_f1266f98c4e6f0ac7b27adb9d3c"/>
+    </person>
+    <person handle="_f124f22960e4fe61329d5578bf6" change="1658430935" id="I0033">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Zoltán</first>
+        <surname>Marics</surname>
+      </name>
+      <eventref hlink="_f124f553e7ce704d65652d1ea7" role="Primary"/>
+      <eventref hlink="_f1555ddcbe4213fa4968f489144" role="Primary"/>
+      <childof hlink="_f124f485b1b44fcf027fd36afaa"/>
+      <parentin hlink="_f126687a7d81106936538101306"/>
+    </person>
+    <person handle="_f124f704e3a1bd525730899adf6" change="1657132030" id="I0034">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Csondor</surname>
+      </name>
+      <parentin hlink="_f124fa4c139fcb930c97bbd64"/>
+    </person>
+    <person handle="_f124f742a49186f1fdcb97e2ecf" change="1657649668" id="I0035">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>István</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f124f9dcce77ac6890ddd95c04b" role="Primary"/>
+      <eventref hlink="_f1266bd74d035eb9249a9d3b0a7" role="Primary"/>
+      <objref hlink="_f13842a363859a4a4f9972148dd"/>
+      <childof hlink="_f124fa4c139fcb930c97bbd64"/>
+      <parentin hlink="_f12673b5cdb348e208b0cd07f34"/>
+    </person>
+    <person handle="_f124f9f48a24d21e9e797a38278" change="1657644067" id="I0036">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Zsuzsa</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f124fa22f963d88649a12cb5d9f" role="Primary"/>
+      <childof hlink="_f124fa4c139fcb930c97bbd64"/>
+      <parentin hlink="_f1266db6f6264e4eeb727c7b556"/>
+    </person>
+    <person handle="_f124ff0e3c91f02a985eea7eb80" change="1657358219" id="I0037">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Éva</first>
+        <surname>Mikocsi</surname>
+      </name>
+      <eventref hlink="_f124ff6351b555b7397e1feca6" role="Primary"/>
+      <eventref hlink="_f12d66f7dbe99a94f7b962597e" role="Primary"/>
+      <eventref hlink="_f12d675c77b633769623e545f6d" role="Primary"/>
+      <eventref hlink="_f12d67a397bdde070c112d18e3" role="Primary"/>
+      <childof hlink="_f124ffb22a9a63eb3bb4ff1d57"/>
+      <parentin hlink="_f12d583045119587c9400c8ee80"/>
+    </person>
+    <person handle="_f124ffc7eed3cff3456e5285f31" change="1657132649" id="I0038">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>István</first>
+        <surname>Mikocsi</surname>
+      </name>
+      <eventref hlink="_f125005231c55babfbf6371e0e5" role="Primary"/>
+      <parentin hlink="_f124ffb22a9a63eb3bb4ff1d57"/>
+    </person>
+    <person handle="_f12501c9dbd2955a7dedbcc6b66" change="1657132811" id="I0039">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Gábor</first>
+        <surname>Szilágyi</surname>
+      </name>
+    </person>
+    <person handle="_f12502f06644d9b91033b6f928f" change="1658423986" id="I0040">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Valéria</first>
+        <surname>Mikocsi</surname>
+      </name>
+      <eventref hlink="_f12d555c6525ec9c0234a43923e" role="Primary"/>
+      <objref hlink="_f1383ed881838e6dde8d0a71aaa"/>
+      <childof hlink="_f124ffb22a9a63eb3bb4ff1d57"/>
+      <parentin hlink="_f1551b0eeaf4f547cae9ff41a8d"/>
+    </person>
+    <person handle="_f1250442e2f226f21578b72432b" change="1657133350" id="I0041">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Barna</first>
+        <surname>Szilágyi</surname>
+      </name>
+      <eventref hlink="_f12505c7d952b7f9bf8ec8f692d" role="Primary"/>
+      <eventref hlink="_f12506d71ce123a76bc49b4a505" role="Primary"/>
+    </person>
+    <person handle="_f12660d9a7e372e76691bf27588" change="1658600613" id="I0042">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Füredi</surname>
+      </name>
+      <eventref hlink="_f12661646573c4a361b5469779d" role="Primary"/>
+      <address>
+        <street>Rákóczi út 17-19</street>
+        <city>Gyulaj</city>
+      </address>
+      <address>
+        <street>Mátra u. 10.</street>
+        <locality>XXII. ker.</locality>
+        <city>Budapest</city>
+      </address>
+      <childof hlink="_f104ddffdd4685b8d781e9b8bdd"/>
+      <parentin hlink="_f12662ac5326ab5dbead768a3f1"/>
+    </person>
+    <person handle="_f126618e687b4eb74eb8ec5029" change="1657169812" id="I0043">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>László</first>
+        <surname>Tóth</surname>
+      </name>
+      <parentin hlink="_f12662ac5326ab5dbead768a3f1"/>
+    </person>
+    <person handle="_f12661f5a0716adf37332431b30" change="1657169812" id="I0044">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Beáta</first>
+        <surname>Tóth</surname>
+      </name>
+      <eventref hlink="_f126628fed3588e7918753078f9" role="Primary"/>
+      <childof hlink="_f12662ac5326ab5dbead768a3f1"/>
+    </person>
+    <person handle="_f12667b1b6d7d176fd90522be37" change="1657170442" id="I0045">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Luca</first>
+        <surname>Marics</surname>
+      </name>
+      <eventref hlink="_f1266826d3c5a5a3d93b1e4c2a9" role="Primary"/>
+      <childof hlink="_f126687a7d81106936538101306"/>
+    </person>
+    <person handle="_f12668cdadd5c842713f2ff759d" change="1657172959" id="I0047">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Liliána</first>
+        <surname>Péter</surname>
+      </name>
+      <eventref hlink="_f126696b8637f24e2d59d1c9ca8" role="Primary"/>
+      <parentin hlink="_f126687a7d81106936538101306"/>
+    </person>
+    <person handle="_f1266ae2c3a30001757aee81141" change="1658228072" id="I0048">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Márta</first>
+        <surname>Csondor</surname>
+      </name>
+      <eventref hlink="_f14dcf37600923ade0821c9365" role="Primary"/>
+    </person>
+    <person handle="_f1266d0bb5cc32fef40785d037" change="1657171831" id="I0049">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Csaba</first>
+        <surname>Szijártó</surname>
+      </name>
+      <eventref hlink="_f12674f43b31fd45d68bd085070" role="Primary"/>
+      <eventref hlink="_f126761fd7dc0136aa321e4c18" role="Primary"/>
+      <parentin hlink="_f1266db6f6264e4eeb727c7b556"/>
+    </person>
+    <person handle="_f1266d3b01aa2742ac7b1857f1" change="1657171759" id="I0050">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Csaba</first>
+        <surname prefix="ifj.">Szijártó</surname>
+      </name>
+      <eventref hlink="_f126756ea70580c7bad608e5d66" role="Primary"/>
+      <childof hlink="_f1266db6f6264e4eeb727c7b556"/>
+    </person>
+    <person handle="_f1266d671e568131d42e0c785fc" change="1657171789" id="I0051">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Zsolt</first>
+        <surname>Szijártó</surname>
+      </name>
+      <eventref hlink="_f12675b754a1aab6c573055af35" role="Primary"/>
+      <childof hlink="_f1266db6f6264e4eeb727c7b556"/>
+    </person>
+    <person handle="_f1266f0086f38b45cafcd6b8044" change="1657171171" id="I0052">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mira</first>
+        <surname>Dobos</surname>
+      </name>
+      <eventref hlink="_f1266f6e4423e70f9baf6f2c8f" role="Primary"/>
+      <childof hlink="_f1266f98c4e6f0ac7b27adb9d3c"/>
+    </person>
+    <person handle="_f1266f9f3523bda9ea3047664e5" change="1657171171" id="I0053">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Gábor</first>
+        <surname>Dobos</surname>
+      </name>
+      <parentin hlink="_f1266f98c4e6f0ac7b27adb9d3c"/>
+    </person>
+    <person handle="_f12672909c0711bf53fe9638cd3" change="1657649638" id="I0054">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>István</first>
+        <surname prefix="ifj.">Harsányi</surname>
+      </name>
+      <eventref hlink="_f12672f84623871e5b1fed59282" role="Primary"/>
+      <objref hlink="_f13842a363859a4a4f9972148dd"/>
+      <childof hlink="_f12673b5cdb348e208b0cd07f34"/>
+    </person>
+    <person handle="_f12673e52cc656e496f7b531839" change="1657171629" id="I0055">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Julianna</first>
+        <surname>Kovács</surname>
+      </name>
+      <parentin hlink="_f12673b5cdb348e208b0cd07f34"/>
+    </person>
+    <person handle="_f126775ee5a57f9234cfe2980b2" change="1657172078" id="I0056">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Vendel</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f126784b75e684647619ad7f71b" role="Primary"/>
+      <eventref hlink="_f1267877bd874aabdd205507989" role="Primary"/>
+      <address>
+        <city>Szentgáloskér</city>
+      </address>
+    </person>
+    <person handle="_f12b7ac044e41bfda2cf9210d19" change="1657994576" id="I0057">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Jakab</surname>
+      </name>
+      <eventref hlink="_f1451387fd4246986b1d55b1e2d" role="Primary"/>
+      <eventref hlink="_f1451550c577640f5bfa1a7f1e2" role="Primary"/>
+      <address>
+        <city>Szombathely</city>
+      </address>
+      <childof hlink="_f14513f6de32cd8bcfa9b64a372"/>
+      <parentin hlink="_f1451b0179a31cfebabf79f723"/>
+    </person>
+    <person handle="_f12b8f824d53cdc00ee5de65383" change="1657308867" id="I0058">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mónika</first>
+        <surname>Lotz</surname>
+      </name>
+      <parentin hlink="_f12b9033183600cbc2b1d0c1d7f"/>
+    </person>
+    <person handle="_f12b8fa85083f92f8ec2ec13ab1" change="1657308867" id="I0059">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Boglárka</first>
+        <surname>Füredi</surname>
+      </name>
+      <eventref hlink="_f12b8fecea35f81c23ba5472ea7" role="Primary"/>
+      <childof hlink="_f12b9033183600cbc2b1d0c1d7f"/>
+    </person>
+    <person handle="_f12b8ffe7a076c7d44c387f1bbc" change="1657308879" id="I0060">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Alina</first>
+        <surname>Füredi</surname>
+      </name>
+      <childof hlink="_f12b9033183600cbc2b1d0c1d7f"/>
+    </person>
+    <person handle="_f12b905a47f32abd30504deb5c" change="1658600327" id="I0061">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Zoltán</first>
+        <surname>Füredi</surname>
+      </name>
+      <eventref hlink="_f12b90cc64411248f8ec1eb98cf" role="Primary"/>
+      <address>
+        <city>Lengyel</city>
+      </address>
+      <childof hlink="_f12b92ef099554dc6b03f10059e"/>
+      <parentin hlink="_f12b9033183600cbc2b1d0c1d7f"/>
+    </person>
+    <person handle="_f12b91b32626a175631f07dd96d" change="1657309092" id="I0062">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Juhász</surname>
+      </name>
+      <eventref hlink="_f12b921b9a03378a9c51030a457" role="Primary"/>
+      <parentin hlink="_f12b92ef099554dc6b03f10059e"/>
+    </person>
+    <person handle="_f12b923567369ec98988290c02" change="1658600290" id="I0063">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Zoltán</first>
+        <surname prefix="id.">Füredi</surname>
+      </name>
+      <eventref hlink="_f12b92be1047a29419fd10ca54d" role="Primary"/>
+      <address>
+        <datestr val="between 1953 and 2022"/>
+        <street>Rákóczi út 17-19.</street>
+        <city>Gyulaj</city>
+        <country>Tolna</country>
+      </address>
+      <childof hlink="_f104ddffdd4685b8d781e9b8bdd"/>
+      <parentin hlink="_f12b92ef099554dc6b03f10059e"/>
+    </person>
+    <person handle="_f12ba4ff9356cf9bf56752d2c9d" change="1663579404" id="I0064">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Gyula</first>
+        <surname>Frühwirth</surname>
+      </name>
+      <eventref hlink="_f12ba55761612547eabbcb482f" role="Primary"/>
+      <eventref hlink="_f17bbab62af190ca2fe07b641a" role="Primary"/>
+      <eventref hlink="_f17d50f5660194f51ea237ea33d" role="Primary"/>
+      <attribute type="Occupation" value="gépész"/>
+      <childof hlink="_f1753869bb140cf34fa588a345a"/>
+      <parentin hlink="_f12ba4f8d04149383a1123f513"/>
+    </person>
+    <person handle="_f12d42ac37174adfc0682adc35e" change="1657649511" id="I0066">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Rudolf</first>
+        <surname>Hutvagner</surname>
+      </name>
+      <eventref hlink="_f12d43386de2a535055c738e9b6" role="Primary"/>
+      <objref hlink="_f138408d79131fc55f71fed38ac"/>
+      <parentin hlink="_f12d49590424c6113c0fe7a3212"/>
+    </person>
+    <person handle="_f12d4362e1b74c6ca45a6ed2e57" change="1657652698" id="I0067">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Zsófia</first>
+        <surname>Hutvagner</surname>
+      </name>
+      <eventref hlink="_f12d43e8dde7fced31612dcb58c" role="Primary"/>
+      <objref hlink="_f13840dc0ed5bca0107bacc5247"/>
+      <objref hlink="_f13840b7c4a2074be3218651d3e"/>
+      <childof hlink="_f12d49590424c6113c0fe7a3212"/>
+      <parentin hlink="_f12d4c3253041568dd5c9a2113b"/>
+    </person>
+    <person handle="_f12d46d54f37f6ff0d88b5207b4" change="1657358444" id="I0068">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Barna</first>
+        <surname>Hutvagner</surname>
+      </name>
+      <eventref hlink="_f12d471e7cf5ed573640e816e66" role="Primary"/>
+      <childof hlink="_f12d49590424c6113c0fe7a3212"/>
+      <parentin hlink="_f12d692f266488e000b496daac6"/>
+    </person>
+    <person handle="_f12d48d4ebd12e47659e4979053" change="1657990351" id="I0069">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Valéria</first>
+        <surname>Bőhm</surname>
+      </name>
+      <eventref hlink="_f12d49382a7674ceda435d1b430" role="Primary"/>
+      <objref hlink="_f138408d79131fc55f71fed38ac"/>
+      <childof hlink="_f12d68729e050ef9ccd2c0b6191"/>
+      <parentin hlink="_f12d49590424c6113c0fe7a3212"/>
+    </person>
+    <person handle="_f12d4a5e6af2503daff0e3f2094" change="1657358444" id="I0070">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Benedek</first>
+        <surname>Hutvagner</surname>
+      </name>
+      <eventref hlink="_f12d4aaba55761e87a609c266ca" role="Primary"/>
+      <childof hlink="_f12d692f266488e000b496daac6"/>
+    </person>
+    <person handle="_f12d4ad2e974e4b8f95e891f86f" change="1657355210" id="I0071">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Rózsa</first>
+        <surname>Berkes</surname>
+      </name>
+    </person>
+    <person handle="_f12d4b78de94db4d3ef039a2e71" change="1657651780" id="I0072">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Liza</first>
+        <surname>Zságer</surname>
+      </name>
+      <eventref hlink="_f12d4bce1304e94e1cd5e9fd3d7" role="Primary"/>
+      <objref hlink="_f1383d801dc36f2cafef5291051"/>
+      <childof hlink="_f12d4c3253041568dd5c9a2113b"/>
+    </person>
+    <person handle="_f12d4bdde93471578e339294d7" change="1657355378" id="I0073">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Balázs</first>
+        <surname>Zságer</surname>
+      </name>
+      <parentin hlink="_f12d4c3253041568dd5c9a2113b"/>
+    </person>
+    <person handle="_f12d4d3d73ba7d2ae9bb5cb4d5" change="1658036179" id="I0074">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György - GyuriB</first>
+        <surname prefix="ifj.">Jakab</surname>
+      </name>
+      <eventref hlink="_f12d4dc9dee6c7bfc0c06708074" role="Primary"/>
+      <objref hlink="_f1383cdd90f87ab0ed73df4aa5"/>
+      <objref hlink="_f1383d48ad8f0471736e7d0223"/>
+      <childof hlink="_f124e41cee86dab15beab99e482"/>
+    </person>
+    <person handle="_f12d4e0791476fd61fe6e5cfe" change="1661698160" id="I0075">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Ilona</first>
+        <surname>Jakab</surname>
+      </name>
+      <eventref hlink="_f12d4e77f6b4a419381ffcbc334" role="Primary"/>
+      <eventref hlink="_f12d4ee054a46c4b02ce45bc174" role="Primary"/>
+      <eventref hlink="_f12d6c66a307ec9bd4d691f5d47" role="Primary"/>
+      <eventref hlink="_f1cf148451663fc36dccc5c43d9" role="Primary"/>
+      <objref hlink="_f1383cb60936122907a15aad901"/>
+      <objref hlink="_f1383d48ad8f0471736e7d0223"/>
+      <address>
+        <datestr val="estimated from 1970-01-01 to 2015"/>
+        <street>Dózsa György u. 104.</street>
+        <city>Siófok</city>
+        <postal>8600</postal>
+      </address>
+      <childof hlink="_f124e41cee86dab15beab99e482"/>
+      <parentin hlink="_f12d68729e050ef9ccd2c0b6191"/>
+    </person>
+    <person handle="_f12d52465503e1e8e6db6add382" change="1658423986" id="I0076">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Attila</first>
+        <surname>Maza</surname>
+      </name>
+      <objref hlink="_f1383ed881838e6dde8d0a71aaa"/>
+      <parentin hlink="_f1551b0eeaf4f547cae9ff41a8d"/>
+    </person>
+    <person handle="_f12d531bd9962cd775a6b3e059a" change="1657356139" id="I0077">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Valéria</first>
+        <surname>Maza</surname>
+      </name>
+      <eventref hlink="_f12d53ce0973b86f5cf739cda31" role="Primary"/>
+    </person>
+    <person handle="_f12d56b48f977261810f423d88a" change="1657356622" id="I0078">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Géza</first>
+        <surname>Kormon</surname>
+      </name>
+      <eventref hlink="_f12d57198f77d35e5cdb3509e55" role="Primary"/>
+      <parentin hlink="_f12d583045119587c9400c8ee80"/>
+    </person>
+    <person handle="_f12d5727284fe279b840357557" change="1657356714" id="I0079">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Éva</first>
+        <surname>Kormon</surname>
+      </name>
+      <eventref hlink="_f12d57d9dc4601e434f1386fbf" role="Primary"/>
+      <childof hlink="_f12d583045119587c9400c8ee80"/>
+    </person>
+    <person handle="_f12d597c6946a6ffe8d91c89981" change="1658423986" id="I0080">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Dóra</first>
+        <surname>Maza</surname>
+      </name>
+      <eventref hlink="_f12d5a449a12c24b99128677722" role="Primary"/>
+      <eventref hlink="_f12d6b539203d5afd813774387a" role="Primary"/>
+      <objref hlink="_f1383b4dcff35b2b6f751fda82f"/>
+      <childof hlink="_f1551b0eeaf4f547cae9ff41a8d"/>
+      <parentin hlink="_f12d5a828446518ea05d7121759"/>
+    </person>
+    <person handle="_f12d59bae8328d8f5b8cdb29351" change="1657356885" id="I0081">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Réka</first>
+        <surname>Lukács</surname>
+      </name>
+      <childof hlink="_f12d5a828446518ea05d7121759"/>
+    </person>
+    <person handle="_f12d5a890d82cd23aa22235b46e" change="1657650193" id="I0082">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Tibor</first>
+        <surname>Lukács</surname>
+      </name>
+      <objref hlink="_f1383b4dcff35b2b6f751fda82f"/>
+      <parentin hlink="_f12d5a828446518ea05d7121759"/>
+    </person>
+    <person handle="_f12d68464656ed3d9cf8e3f94a5" change="1657990437" id="I0083">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Bőhm</surname>
+      </name>
+      <childof hlink="_f144f45cda58d6eec2ba5fe59f"/>
+      <parentin hlink="_f12d68729e050ef9ccd2c0b6191"/>
+    </person>
+    <person handle="_f12d694f6b0582251f134c9ac71" change="1657358444" id="I0084">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Kinga</first>
+        <surname>Gyenes</surname>
+      </name>
+      <parentin hlink="_f12d692f266488e000b496daac6"/>
+    </person>
+    <person handle="_f144f46536824e2634f3640376f" change="1657990437" id="I0085">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Lőrinc</first>
+        <surname>Bőhm</surname>
+      </name>
+      <parentin hlink="_f144f45cda58d6eec2ba5fe59f"/>
+    </person>
+    <person handle="_f144f4d03f37cbf2d610f2db0fa" change="1657990437" id="I0086">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Kianek</surname>
+      </name>
+      <parentin hlink="_f144f45cda58d6eec2ba5fe59f"/>
+    </person>
+    <person handle="_f14513fc3712fa4e874178ee6da" change="1662390286" id="I0087">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ferenc</first>
+        <surname>Jakab</surname>
+      </name>
+      <eventref hlink="_f1dc7cfe081663cbb503ee2e0ea" role="Primary"/>
+      <eventref hlink="_f1e8dd26f655f7ba818dffa8f2a" role="Primary"/>
+      <childof hlink="_f1ddf9761ac78de1c4dc4b12136"/>
+      <parentin hlink="_f14513f6de32cd8bcfa9b64a372"/>
+    </person>
+    <person handle="_f14514151e5554d737fa13aa629" change="1662110814" id="I0088">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Erzsébet</first>
+        <surname>Nagy</surname>
+      </name>
+      <eventref hlink="_f1dc7d81f3a6d7aa662781228f9" role="Primary"/>
+      <childof hlink="_f1de73972082efe0518dfad306f"/>
+      <parentin hlink="_f14513f6de32cd8bcfa9b64a372"/>
+    </person>
+    <person handle="_f14514d5a174e38c9a09dbe44a6" change="1657994554" id="I0089">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Matild</first>
+        <surname>Fortner</surname>
+      </name>
+      <eventref hlink="_f14515b9ca9373cf923263e96c6" role="Primary"/>
+      <eventref hlink="_f145195c745135ef6b2ed7b51df" role="Primary"/>
+      <address>
+        <city>Szombathely</city>
+      </address>
+      <childof hlink="_f145164c2df371bce2b68b25daf"/>
+      <parentin hlink="_f1451b0179a31cfebabf79f723"/>
+    </person>
+    <person handle="_f1451651be5141123e3226afe2e" change="1657993974" id="I0090">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Fortner</surname>
+      </name>
+      <parentin hlink="_f145164c2df371bce2b68b25daf"/>
+    </person>
+    <person handle="_f14516687df72381dfae47a7ab9" change="1657993974" id="I0091">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Hübner</surname>
+      </name>
+      <parentin hlink="_f145164c2df371bce2b68b25daf"/>
+    </person>
+    <person handle="_f146aaa76c82e887ea8156a3684" change="1663521508" id="I0093">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname prefix="ifj.">Berkes</surname>
+      </name>
+      <eventref hlink="_f1f8de4ebfe5edff88287a7cec3" role="Primary"/>
+      <eventref hlink="_f1f941550324890f950c49b7cd5" role="Primary"/>
+      <eventref hlink="_f1f965af10b6087f2a6cab4ff76" role="Primary"/>
+      <childof hlink="_f1f965e99a1249dd0cfcd0f7446"/>
+      <parentin hlink="_f146aa8531d3c89f88bfe1d5fcc"/>
+    </person>
+    <person handle="_f146aac61c61265a44d097f0e0d" change="1663575921" id="I0094">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Erzsébet</first>
+        <surname>Szántó</surname>
+      </name>
+      <eventref hlink="_f1f941fe8c63f12fa8b33b70960" role="Primary"/>
+      <eventref hlink="_f21507c9ccc58ebebac27600226" role="Primary"/>
+      <childof hlink="_f1f966cfcc6ddc2db035dac576"/>
+      <parentin hlink="_f146aa8531d3c89f88bfe1d5fcc"/>
+    </person>
+    <person handle="_f1472c239117d11df1445fdd6a6" change="1658051557" id="I0095">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Erzsébet</first>
+        <surname>Jakab</surname>
+      </name>
+      <eventref hlink="_f1472cb72d54ac3b24603d031dd" role="Primary"/>
+      <eventref hlink="_f1472e394d27aeee5786f8f050e" role="Primary"/>
+      <eventref hlink="_f1473a623584b6d6dc6cf26ed11" role="Primary"/>
+      <childof hlink="_f14513f6de32cd8bcfa9b64a372"/>
+      <parentin hlink="_f1473631d42539b0ab35eb5d7f4"/>
+      <parentin hlink="_f1473b969ed52d231bd9502d4e3"/>
+    </person>
+    <person handle="_f14734fcb5c2946800c6ee73cba" change="1658050990" id="I0096">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Mihály</first>
+        <surname>Svajda</surname>
+      </name>
+      <eventref hlink="_f14735d4d4978a1a743ba68deff" role="Primary"/>
+      <parentin hlink="_f1473631d42539b0ab35eb5d7f4"/>
+    </person>
+    <person handle="_f1473acc868720e43dc8b48abaa" change="1658051650" id="I0098">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Árpád</first>
+        <surname>Pethő</surname>
+      </name>
+      <eventref hlink="_f1473b55e417b818fb004cda92a" role="Primary"/>
+      <eventref hlink="_f1473c8dd881ab2ae7c7b0ac6a" role="Primary"/>
+      <eventref hlink="_f1473cb9e6e377a3054554a1d7d" role="Primary"/>
+      <parentin hlink="_f1473b969ed52d231bd9502d4e3"/>
+    </person>
+    <person handle="_f1473e8e0724524efc0ba8f313" change="1658052029" id="I0100">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Jakab</surname>
+      </name>
+      <eventref hlink="_f1473f4c3b168f4bcf661a5d4de" role="Primary"/>
+      <eventref hlink="_f14740519ea28252651e704a25c" role="Primary"/>
+    </person>
+    <person handle="_f147419b2816210a263ba53536f" change="1658052789" id="I0101">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Takács</surname>
+      </name>
+      <eventref hlink="_f147445bb5d4eb464dab69ae6f" role="Primary"/>
+      <eventref hlink="_f1474718ba77c1b767e56c4c671" role="Primary"/>
+      <childof hlink="_f1474734a3a443d4fe3ccb400c"/>
+    </person>
+    <person handle="_f14747621497cae5aaef89fe299" change="1658052789" id="I0102">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Takács</surname>
+      </name>
+      <parentin hlink="_f1474734a3a443d4fe3ccb400c"/>
+    </person>
+    <person handle="_f14747771a1191e619ecf824e87" change="1658052789" id="I0103">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Julianna</first>
+        <surname>Stráda</surname>
+      </name>
+      <parentin hlink="_f1474734a3a443d4fe3ccb400c"/>
+    </person>
+    <person handle="_f14dcd21d3946f0d2bc323fa23a" change="1658254683" id="I0104">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Júlia</first>
+        <surname>Papp/Pap</surname>
+      </name>
+      <eventref hlink="_f14dcd895cc2dcb59142f5fe264" role="Primary"/>
+      <childof hlink="_f14ec969d62485796e9eab8b047"/>
+    </person>
+    <person handle="_f14dcd9a6c253f455aa86d1d38d" change="1658254694" id="I0105">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Papp/Pap</surname>
+      </name>
+      <eventref hlink="_f14dce0b5993700bf9a844c39bb" role="Primary"/>
+      <childof hlink="_f14ec969d62485796e9eab8b047"/>
+    </person>
+    <person handle="_f14dce4458121c166f7497953a5" change="1658254671" id="I0106">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname>Papp/Pap</surname>
+      </name>
+      <eventref hlink="_f14dced89c67a280206eb532c60" role="Primary"/>
+      <childof hlink="_f14ec969d62485796e9eab8b047"/>
+    </person>
+    <person handle="_f14ec9703ee5a9460cdbd18939d" change="1658255058" id="I0107">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Papp/Pap</surname>
+      </name>
+      <eventref hlink="_f14eca0f5a1c41596ac00c9bfd" role="Primary"/>
+      <eventref hlink="_f14ecc7f0516d901e4f69f0466b" role="Primary"/>
+      <childof hlink="_f14ecfeb23e41085a34b675baf1"/>
+      <parentin hlink="_f14ec969d62485796e9eab8b047"/>
+    </person>
+    <person handle="_f14eca2c410758f1bd17c0e0f30" change="1658255175" id="I0108">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Kálmán</surname>
+      </name>
+      <eventref hlink="_f14ecaca2684959916c0eac319" role="Primary"/>
+      <eventref hlink="_f14ecb6f31f262b80d44d8aa312" role="Primary"/>
+      <childof hlink="_f14ed0bfafd298eb07cafa8b8b5"/>
+      <parentin hlink="_f14ec969d62485796e9eab8b047"/>
+    </person>
+    <person handle="_f14ecff2d444148934c8b12dcbf" change="1658255058" id="I0109">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname prefix="id.">Papp/Pap</surname>
+      </name>
+      <parentin hlink="_f14ecfeb23e41085a34b675baf1"/>
+    </person>
+    <person handle="_f14ed06ce3d2c575e285c301062" change="1658255058" id="I0110">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Juli</first>
+        <surname>Kovács</surname>
+      </name>
+      <parentin hlink="_f14ecfeb23e41085a34b675baf1"/>
+    </person>
+    <person handle="_f14ed1199a4307fb063eea1e949" change="1658255175" id="I0111">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ádám</first>
+        <surname>Kálmán</surname>
+      </name>
+      <parentin hlink="_f14ed0bfafd298eb07cafa8b8b5"/>
+    </person>
+    <person handle="_f14ed148ea636a18489b88c514b" change="1658255175" id="I0112">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Fehér</surname>
+      </name>
+      <parentin hlink="_f14ed0bfafd298eb07cafa8b8b5"/>
+    </person>
+    <person handle="_f14ed5ca9202c1b7b4e623883dc" change="1661277969" id="I0113">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname prefix="id.">Harsányi</surname>
+      </name>
+      <eventref hlink="_f15528da2fa12213ae8561ee29d" role="Primary"/>
+      <address>
+        <dateval val="1897"/>
+        <city>Szentgáloskér</city>
+      </address>
+      <attribute type="Occupation" value="urasági szekeres béres"/>
+      <childof hlink="_f1bf6cfe2bd1e67eafbffebdd5d"/>
+      <parentin hlink="_f14ed5c60142708f7b817b46656"/>
+    </person>
+    <person handle="_f14ed5f66c63d5141fda7efa251" change="1661070718" id="I0114">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Erzsébet</first>
+        <surname>Zóka</surname>
+      </name>
+      <eventref hlink="_f1552a1144f7f63c6f03863f783" role="Primary"/>
+      <eventref hlink="_f1b7b4ce93749060a85da76fa7a" role="Primary"/>
+      <childof hlink="_f1b7b2a0f6a7e7d7c3455bd7c58"/>
+      <parentin hlink="_f14ed5c60142708f7b817b46656"/>
+    </person>
+    <person handle="_f1552aa25044d08d4cd26f99" change="1658425798" id="I0115">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f1552af4c79155429cb8a82e15" role="Primary"/>
+      <childof hlink="_f14ed5c60142708f7b817b46656"/>
+    </person>
+    <person handle="_f15537a15452936d6e1bc9f8c54" change="1658426996" id="I0116">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f15538066025f38b680fb23a093" role="Primary"/>
+      <childof hlink="_f14ed5c60142708f7b817b46656"/>
+    </person>
+    <person handle="_f1553c42e9727fab18c9837661c" change="1658427950" id="I0117">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f1553cb064422b69df08881b64e" role="Primary"/>
+      <eventref hlink="_f1553d14163ce76c31e7f08a3" role="Primary"/>
+      <address>
+        <dateval val="1911"/>
+        <city>Szentgáloskér</city>
+      </address>
+      <childof hlink="_f14ed5c60142708f7b817b46656"/>
+      <parentin hlink="_f15541108803a726e14fee02fb9"/>
+    </person>
+    <person handle="_f1553f9cedd2bb7d0fb768ebf3a" change="1658428141" id="I0118">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Katalin</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f1553ffcf3d48fc6fb747862f14" role="Primary"/>
+      <eventref hlink="_f15540cee057192648267239d1c" role="Primary"/>
+      <address>
+        <dateval val="1911"/>
+        <city>Szentgáloskér</city>
+      </address>
+      <childof hlink="_f15542cc0685c488959d8559701"/>
+      <parentin hlink="_f15541108803a726e14fee02fb9"/>
+    </person>
+    <person handle="_f15541e15692240630cb469c700" change="1658428141" id="I0120">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>István</first>
+        <surname>Harsányi</surname>
+      </name>
+      <eventref hlink="_f15542406e4598fe72f96c94deb" role="Primary"/>
+      <parentin hlink="_f15542cc0685c488959d8559701"/>
+    </person>
+    <person handle="_f1554259d30bdb5e0fb4dea337" change="1658428141" id="I0121">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Borbála</first>
+        <surname>Kovács</surname>
+      </name>
+      <eventref hlink="_f15542a8d1910b96ccd73c280d6" role="Primary"/>
+      <parentin hlink="_f15542cc0685c488959d8559701"/>
+    </person>
+    <person handle="_f156e2a3e976392e3e8f0aaf61e" change="1658472344" id="I0122">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname>Kálmán</surname>
+      </name>
+      <eventref hlink="_f156e334abd4a5fe3aa6dac922e" role="Primary"/>
+      <eventref hlink="_f156e85c658951bbbfe7b08421" role="Primary"/>
+      <eventref hlink="_f156e8c5e411960077fe72966f6" role="Primary"/>
+      <childof hlink="_f14ed0bfafd298eb07cafa8b8b5"/>
+    </person>
+    <person handle="_f164ed7ca0c3ee66b1830e3d8cd" change="1660470841" id="I0123">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Bérdi</surname>
+      </name>
+      <eventref hlink="_f167f2998a763ed91689fba3528" role="Primary"/>
+      <eventref hlink="_f1a15aa78c167f52205d65c154e" role="Primary"/>
+      <address>
+        <dateval val="1967"/>
+        <street>Budapest XVI. Gárda u. 64.</street>
+      </address>
+      <childof hlink="_f167f2fa3fb2efd6ee04424fb8"/>
+      <parentin hlink="_f124db8ebd36e7d5b008442d894"/>
+      <parentin hlink="_f1a15b2636967f6ff2ed8f1744b"/>
+    </person>
+    <person handle="_f167f301db277a472ca7d8550fb" change="1658933151" id="I0124">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Vendel</first>
+        <surname>Bérdi</surname>
+      </name>
+      <eventref hlink="_f167f4a06875c1fff7aa65bf70d" role="Primary"/>
+      <eventref hlink="_f167f53b28b7d980430caf89d6b" role="Primary"/>
+      <eventref hlink="_f168135be426e5a66ed4fc38594" role="Primary"/>
+      <childof hlink="_f168126f7ff54c213746a52c47b"/>
+      <parentin hlink="_f167f2fa3fb2efd6ee04424fb8"/>
+    </person>
+    <person handle="_f167f44bef217890b7fed5ab3d3" change="1658994913" id="I0125">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Béres</surname>
+      </name>
+      <eventref hlink="_f16a5e6c3d86a061f4dc627544" role="Primary"/>
+      <eventref hlink="_f16a5ec435330827fd5ad86a191" role="Primary"/>
+      <eventref hlink="_f16a60607cdec01216def98a29" role="Primary"/>
+      <childof hlink="_f16835849e92e74724ff450a575"/>
+      <parentin hlink="_f167f2fa3fb2efd6ee04424fb8"/>
+    </person>
+    <person handle="_f167f6cb38327209d617d6f880f" change="1658930262" id="I0126">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Terézia</first>
+        <surname>Bérdi</surname>
+      </name>
+      <eventref hlink="_f167f731dab34f20155e57bd080" role="Primary"/>
+      <childof hlink="_f167f2fa3fb2efd6ee04424fb8"/>
+    </person>
+    <person handle="_f167f740228271349b0a115afab" change="1658930279" id="I0127">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Bérdi</surname>
+      </name>
+      <eventref hlink="_f167f7a994766454fec7ae7d2ea" role="Primary"/>
+      <childof hlink="_f167f2fa3fb2efd6ee04424fb8"/>
+    </person>
+    <person handle="_f16811bb5963c013aaad1c0eb61" change="1658933075" id="I0128">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ferenc</first>
+        <surname>Bérdi</surname>
+      </name>
+      <parentin hlink="_f168126f7ff54c213746a52c47b"/>
+    </person>
+    <person handle="_f168120c42f3548fb0150e24daa" change="1659046435" id="I0129">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Radó</surname>
+      </name>
+      <eventref hlink="_f16c389f983143126879c62e5cd" role="Primary"/>
+      <eventref hlink="_f16c4bbcb573b3446c076a22218" role="Primary"/>
+      <childof hlink="_f16c39512f64c4e711bafe110c4"/>
+      <parentin hlink="_f168126f7ff54c213746a52c47b"/>
+    </person>
+    <person handle="_f168358b9f54ea71dcb6aa3004c" change="1659003124" id="I0130">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Márton Martinus</first>
+        <surname>Béres</surname>
+      </name>
+      <eventref hlink="_f16aaeafefc4587fbb6176c8c18" role="Primary"/>
+      <childof hlink="_f16a60b5ef46c0486fcad8b78dd"/>
+      <parentin hlink="_f16835849e92e74724ff450a575"/>
+    </person>
+    <person handle="_f16835c03a87b08d0e35e36b960" change="1658995111" id="I0131">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Teréz</first>
+        <surname>Nagy</surname>
+      </name>
+      <childof hlink="_f16a61f1f403896cd00be2084e3"/>
+      <parentin hlink="_f16835849e92e74724ff450a575"/>
+    </person>
+    <person handle="_f16a60bb9ce19e9e61912547854" change="1659117435" id="I0132">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>András Andreas</first>
+        <surname>Béres</surname>
+      </name>
+      <eventref hlink="_f16a635cd498b5c47d266522f5" role="Primary"/>
+      <eventref hlink="_f16b40469b12f8fc11651c6fc51" role="Primary"/>
+      <eventref hlink="_f16b6a61694618bbb735e7a961a" role="Primary"/>
+      <eventref hlink="_f16ef0d51e71a586bba6ad68f54" role="Primary"/>
+      <childof hlink="_f16aaf098751bfb5e0a0557c697"/>
+      <parentin hlink="_f16a60b5ef46c0486fcad8b78dd"/>
+    </person>
+    <person handle="_f16a60dcddf5738cb3ac59ffcec" change="1659168379" id="I0133">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Elisabetha Örzse</first>
+        <surname>Szijártó</surname>
+      </name>
+      <eventref hlink="_f170d1dd76b36d1f6a538df7234" role="Primary"/>
+      <childof hlink="_f16ef318ad720f4ec2006a02d71"/>
+      <parentin hlink="_f16a60b5ef46c0486fcad8b78dd"/>
+    </person>
+    <person handle="_f16a61f6b4195eec7e678af942" change="1658995111" id="I0134">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Joannes</first>
+        <surname>Nagy</surname>
+      </name>
+      <parentin hlink="_f16a61f1f403896cd00be2084e3"/>
+    </person>
+    <person handle="_f16a621b5016055e8c4116a9699" change="1658995111" id="I0135">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Vicze</surname>
+      </name>
+      <parentin hlink="_f16a61f1f403896cd00be2084e3"/>
+    </person>
+    <person handle="_f16aaf0e6f87104d608d6b3f038" change="1659003173" id="I0136">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname>Béres</surname>
+      </name>
+      <parentin hlink="_f16aaf098751bfb5e0a0557c697"/>
+    </person>
+    <person handle="_f16b6e1cfa97fc76f8031940fe0" change="1659023234" id="I0137">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Theresia Teréz</first>
+        <surname>Juhász</surname>
+      </name>
+      <parentin hlink="_f16aaf098751bfb5e0a0557c697"/>
+    </person>
+    <person handle="_f16c395692243040034eeb6b39e" change="1659044551" id="I0138">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Jósef</first>
+        <surname>Radó</surname>
+      </name>
+      <parentin hlink="_f16c39512f64c4e711bafe110c4"/>
+    </person>
+    <person handle="_f16c396f6da72417bc2b76a9123" change="1663579315" id="I0139">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Borbála</first>
+        <surname>Fanta</surname>
+      </name>
+      <name alt="1" type="Also Known As">
+        <first>Panta</first>
+        <surname></surname>
+      </name>
+      <name alt="1" type="Also Known As">
+        <first>Santa</first>
+        <surname></surname>
+      </name>
+      <parentin hlink="_f16c39512f64c4e711bafe110c4"/>
+    </person>
+    <person handle="_f16ef3209e43bc4a875fd1de48a" change="1659117723" id="I0140">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Szijártó</surname>
+      </name>
+      <parentin hlink="_f16ef318ad720f4ec2006a02d71"/>
+    </person>
+    <person handle="_f170d2485f05dfcf87a75f2119e" change="1659168264" id="I0142">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Josephus</first>
+        <surname>Szijártó</surname>
+      </name>
+    </person>
+    <person handle="_f170d2625563459905e5dd9b31b" change="1659168264" id="I0143">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Elisabetha</first>
+        <surname>Hosszú</surname>
+      </name>
+      <name alt="1" type="Birth Name">
+        <first>Örzse</first>
+        <surname>Hoffman/Hoffer</surname>
+      </name>
+      <attribute type="Merged Gramps ID" value="I0141"/>
+      <parentin hlink="_f16ef318ad720f4ec2006a02d71"/>
+    </person>
+    <person handle="_f175026d8f777bfee9dabfab035" change="1659289841" id="I0144">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Kapoli</surname>
+      </name>
+      <eventref hlink="_f1753604ac5709264132e3ce565" role="Primary"/>
+      <eventref hlink="_f17536b6d3d60fc721b44ac5ba" role="Primary"/>
+      <eventref hlink="_f1755cd47a63449fd01babcd2f5" role="Primary"/>
+      <childof hlink="_f175377815b2b1cb8cf6fb6890c"/>
+      <parentin hlink="_f12ba4f8d04149383a1123f513"/>
+    </person>
+    <person handle="_f175100809546276c41605981a4" change="1663579436" id="I0145">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Frühwirth</surname>
+      </name>
+      <eventref hlink="_f1751155a905175f7dc458a5b73" role="Primary"/>
+      <eventref hlink="_f17511cfe1c77877e5472f296be" role="Primary"/>
+      <eventref hlink="_f1751269cc03dd4420020a4d7f" role="Primary"/>
+      <childof hlink="_f12ba4f8d04149383a1123f513"/>
+    </person>
+    <person handle="_f17537111f1cb86dacf14c930f" change="1660933737" id="I0147">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Terézia</first>
+        <surname>Beihammer</surname>
+      </name>
+      <eventref hlink="_f199320a9115b3539b63ddd35f" role="Primary"/>
+      <eventref hlink="_f1993362f8137e3c2d50799e328" role="Primary"/>
+      <childof hlink="_f1b29a4c84b6120741afef8cc4"/>
+      <parentin hlink="_f175377815b2b1cb8cf6fb6890c"/>
+    </person>
+    <person handle="_f1753712f0b35f503909a861d69" change="1659292893" id="I0146">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Péter</first>
+        <surname>Kapoli</surname>
+      </name>
+      <eventref hlink="_f1757751baf679595748deb611a" role="Primary"/>
+      <eventref hlink="_f175777ca6c7b3054c959ff5379" role="Primary"/>
+      <address>
+        <dateval val="1929"/>
+        <city>Tamási, Újvárhegy 119.</city>
+      </address>
+      <childof hlink="_f175795b7e47deed7a834a4a22c"/>
+      <parentin hlink="_f175377815b2b1cb8cf6fb6890c"/>
+    </person>
+    <person handle="_f175380c9a17d696b584bcbda58" change="1663579339" id="I0148">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Antal</first>
+        <surname>Frühwirth</surname>
+      </name>
+      <eventref hlink="_f17d72c8d251dd26805154299bd" role="Primary"/>
+      <eventref hlink="_f18b8f55f3515cef9fd1ae8d24" role="Primary"/>
+      <attribute type="Occupation" value="lakatos"/>
+      <childof hlink="_f17d6401a141a6201ca0fe213b8"/>
+      <parentin hlink="_f1753869bb140cf34fa588a345a"/>
+    </person>
+    <person handle="_f175382c32b242ae4161e428382" change="1659519188" id="I0149">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Franciska</first>
+        <surname>Galambos</surname>
+      </name>
+      <eventref hlink="_f17dc1a1df55667bae5446ad045" role="Primary"/>
+      <eventref hlink="_f17de841fd659b88da669c2ca79" role="Primary"/>
+      <childof hlink="_f17dc406303430a24ca49ac984c"/>
+      <parentin hlink="_f1753869bb140cf34fa588a345a"/>
+    </person>
+    <person handle="_f1755d9785d45cb3321a8366639" change="1660252039" id="I0150">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Mihály</first>
+        <surname>Kapoli</surname>
+      </name>
+      <eventref hlink="_f1755e2a63441212b34fd5c18f1" role="Primary"/>
+      <eventref hlink="_f1755ea24ae6575514403869d02" role="Primary"/>
+      <eventref hlink="_f1993544c641c2886c63be19820" role="Primary"/>
+      <childof hlink="_f175377815b2b1cb8cf6fb6890c"/>
+    </person>
+    <person handle="_f1755f08295467a5832fc568805" change="1660251358" id="I0151">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname>Kapoli</surname>
+      </name>
+      <eventref hlink="_f1755f7374b1a6ac16a8396a07f" role="Primary"/>
+      <eventref hlink="_f1755feb7d4793c02ddfc41505c" role="Primary"/>
+      <eventref hlink="_f1992ec472c346ac1dcdf4ca575" role="Primary"/>
+      <childof hlink="_f175377815b2b1cb8cf6fb6890c"/>
+    </person>
+    <person handle="_f1756596fe17b435d7cb8a9d031" change="1659290839" id="I0152">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József</first>
+        <surname>Kapoli</surname>
+      </name>
+      <eventref hlink="_f17565d1bffe59897ef0160618" role="Primary"/>
+      <childof hlink="_f175377815b2b1cb8cf6fb6890c"/>
+    </person>
+    <person handle="_f17579616e91e3fb094c45862ad" change="1659292893" id="I0153">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>László</first>
+        <surname>Kapoli</surname>
+      </name>
+      <parentin hlink="_f175795b7e47deed7a834a4a22c"/>
+    </person>
+    <person handle="_f1757a07e04238482a4f1264902" change="1659292893" id="I0154">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Makhalek</surname>
+      </name>
+      <parentin hlink="_f175795b7e47deed7a834a4a22c"/>
+    </person>
+    <person handle="_f17d4b104fc4ccf874f01fee5db" change="1663579462" id="I0155">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Frühwirth</surname>
+      </name>
+      <eventref hlink="_f17d4ba5702a7c172709ac4d95" role="Primary"/>
+      <eventref hlink="_f17d4c749d85f419cd9d2d2b6ee" role="Primary"/>
+      <eventref hlink="_f17def13ece54f7b6b21fdf9333" role="Primary"/>
+      <address>
+        <dateval val="1943"/>
+        <city>tamási 272</city>
+      </address>
+      <childof hlink="_f1753869bb140cf34fa588a345a"/>
+    </person>
+    <person handle="_f17d5134e8b290d6a4fd3ae45a4" change="1663579392" id="I0156">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Franciska</first>
+        <surname>Frühwirth</surname>
+      </name>
+      <eventref hlink="_f17d51cb8674bc4e65aa5f86e93" role="Primary"/>
+      <childof hlink="_f1753869bb140cf34fa588a345a"/>
+    </person>
+    <person handle="_f17d640763662c44f5157bae633" change="1663579476" id="I0157">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Mihály - Michael</first>
+        <surname>Frühwirth</surname>
+      </name>
+      <eventref hlink="_f17d69925dc24d4d75b902a0c5e" role="Primary"/>
+      <childof hlink="_f17d6a558404df376174dcfc906"/>
+      <parentin hlink="_f17d6401a141a6201ca0fe213b8"/>
+    </person>
+    <person handle="_f17d6a5e99457b7f27cc36d219c" change="1660125395" id="I0158">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Petrus</first>
+        <surname>Frühwirth</surname>
+      </name>
+      <name alt="1" type="Also Known As">
+        <surname>Füredi</surname>
+      </name>
+      <name alt="1" type="Also Known As">
+        <surname>Früvirt</surname>
+      </name>
+      <parentin hlink="_f17d6a558404df376174dcfc906"/>
+    </person>
+    <person handle="_f17d6a99c0c76bc461c1c95ebf" change="1659506052" id="I0159">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Elisabetha, Salrasa Drüly??</first>
+        <surname>Bődön</surname>
+      </name>
+      <parentin hlink="_f17d6a558404df376174dcfc906"/>
+    </person>
+    <person handle="_f17dc40bba07f0da9941d8bf88b" change="1661274064" id="I0160">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname>Galambos</surname>
+      </name>
+      <eventref hlink="_f1bf47274ae555dff83395a3626" role="Primary"/>
+      <eventref hlink="_f1bf47f40cb17ea3854a8783849" role="Primary"/>
+      <parentin hlink="_f17dc406303430a24ca49ac984c"/>
+    </person>
+    <person handle="_f17dc4266f0313e6599aa8d3731" change="1659520631" id="I0161">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Erzsébet</first>
+        <surname>Forner</surname>
+      </name>
+      <eventref hlink="_f17df3c5ae746a26b759b9c2e3b" role="Primary"/>
+      <eventref hlink="_f17df3e9ec531423d4c8d0f09c5" role="Primary"/>
+      <childof hlink="_f17df59f82e27f4f7c5f94bd374"/>
+      <parentin hlink="_f17dc406303430a24ca49ac984c"/>
+    </person>
+    <person handle="_f17df5a356b606101f5c8609b21" change="1659520631" id="I0162">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname>Forner</surname>
+      </name>
+      <parentin hlink="_f17df59f82e27f4f7c5f94bd374"/>
+    </person>
+    <person handle="_f17df5bff9a71c21b6216a2557" change="1659520631" id="I0163">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Margit</first>
+        <surname>Kresz</surname>
+      </name>
+      <parentin hlink="_f17df59f82e27f4f7c5f94bd374"/>
+    </person>
+    <person handle="_f18b534c2aa25cc4b6d5c250ffa" change="1659879400" id="I0164">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Kata</first>
+        <surname>Jakab</surname>
+      </name>
+      <parentin hlink="_f17d6401a141a6201ca0fe213b8"/>
+    </person>
+    <person handle="_f1993240da81dd39919f4741915" change="1660922182" id="I0165">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ferenc</first>
+        <surname>Beihammer</surname>
+      </name>
+      <name alt="1" type="Birth Name">
+        <surname prim="0">Bájhammer</surname>
+        <surname prim="0">Májhammer</surname>
+        <surname prim="0">Bayhaimer</surname>
+        <surname prim="0">Reihammer</surname>
+        <surname prim="0">Bayhamer</surname>
+        <surname>Beihammer</surname>
+      </name>
+    </person>
+    <person handle="_f199325fa55634ecfb682264746" change="1660933737" id="I0166">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Teréz</first>
+        <surname>Horváth</surname>
+      </name>
+      <parentin hlink="_f1b29a4c84b6120741afef8cc4"/>
+    </person>
+    <person handle="_f1a15b680db2c957b3c3977ee1d" change="1660470841" id="I0167">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ádám</first>
+        <surname>Somogyvári</surname>
+      </name>
+      <eventref hlink="_f1a15be85f914e8dec2348efd71" role="Primary"/>
+      <parentin hlink="_f1a15b2636967f6ff2ed8f1744b"/>
+    </person>
+    <person handle="_f1a1db4980178f280bad73e6b4c" change="1660933775" id="I0168">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Josephus József</first>
+        <surname>Beihammer</surname>
+      </name>
+      <eventref hlink="_f1a1db81b37370c35433215eedc" role="Primary"/>
+      <eventref hlink="_f1a1dbd8fdf5d5bc94e9915a87b" role="Primary"/>
+      <childof hlink="_f1b29a4c84b6120741afef8cc4"/>
+    </person>
+    <person handle="_f1a1dc0c005f2953f759c9bd6e" change="1660933794" id="I0169">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Rosina</first>
+        <surname>Beihammer</surname>
+      </name>
+      <eventref hlink="_f1a1dc9c3a51676d6acfcde3d31" role="Primary"/>
+      <childof hlink="_f1b29a4c84b6120741afef8cc4"/>
+    </person>
+    <person handle="_f1b2996bb4a3325af689d612f9e" change="1660933737" id="I0170">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>József Josephus</first>
+        <surname>Beihammer</surname>
+      </name>
+      <parentin hlink="_f1b29a4c84b6120741afef8cc4"/>
+    </person>
+    <person handle="_f1b7b2a59cf64024fbbd061f44e" change="1661070518" id="I0171">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname>Zóka</surname>
+      </name>
+      <parentin hlink="_f1b7b2a0f6a7e7d7c3455bd7c58"/>
+    </person>
+    <person handle="_f1b7b2c3cb84fc83a25b6e30302" change="1661070518" id="I0172">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Gelencsér</surname>
+      </name>
+      <parentin hlink="_f1b7b2a0f6a7e7d7c3455bd7c58"/>
+    </person>
+    <person handle="_f1bf6d047094dab87cc5af0d2aa" change="1661277959" id="I0173">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Josef</first>
+        <surname prefix="id.">Harsányi</surname>
+      </name>
+      <parentin hlink="_f1bf6cfe2bd1e67eafbffebdd5d"/>
+    </person>
+    <person handle="_f1bf6d1bdaf8a678b7d3d5e216" change="1661277959" id="I0174">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Roza</first>
+        <surname>Látrányi</surname>
+      </name>
+      <parentin hlink="_f1bf6cfe2bd1e67eafbffebdd5d"/>
+    </person>
+    <person handle="_f1cf1533a02630859a46518f84f" change="1661698345" id="I0175">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Margit</first>
+        <surname>Molnár</surname>
+      </name>
+      <eventref hlink="_f1cf15bc1853b928d93fbaaa732" role="Primary"/>
+    </person>
+    <person handle="_f1ddf98fc853650dfd9aa4b465f" change="1662098001" id="I0176">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Franciscus</first>
+        <surname>Jakab</surname>
+      </name>
+      <parentin hlink="_f1ddf9761ac78de1c4dc4b12136"/>
+    </person>
+    <person handle="_f1ddf9a63b1585b2aaabff0fdae" change="1662389909" id="I0177">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Karazsi</surname>
+      </name>
+      <eventref hlink="_f1e8d8dd748bb6469d54fafc86" role="Primary"/>
+      <eventref hlink="_f1e8d9976424a9b9043cdbd12c3" role="Primary"/>
+      <childof hlink="_f1e8d7ead64e878c14230df09"/>
+      <parentin hlink="_f1ddf9761ac78de1c4dc4b12136"/>
+    </person>
+    <person handle="_f1de73b3f7656dbf9a493e043dc" change="1662110814" id="I0178">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname>Nagy</surname>
+      </name>
+      <parentin hlink="_f1de73972082efe0518dfad306f"/>
+    </person>
+    <person handle="_f1de73cbce92a7217cc0f3776d8" change="1662110814" id="I0179">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Terézia</first>
+        <surname>Hadanits</surname>
+      </name>
+      <parentin hlink="_f1de73972082efe0518dfad306f"/>
+    </person>
+    <person handle="_f1e8d7f29a459f89476fb169b14" change="1662389760" id="I0180">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname>Karazsi</surname>
+      </name>
+      <parentin hlink="_f1e8d7ead64e878c14230df09"/>
+    </person>
+    <person handle="_f1e8d8071e45b652256a9e26bae" change="1662389760" id="I0181">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Julianna</first>
+        <surname>Bognár</surname>
+      </name>
+      <parentin hlink="_f1e8d7ead64e878c14230df09"/>
+    </person>
+    <person handle="_f1f8d8e436c74bb8748bb787dd0" change="1662819513" id="I0182">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mária</first>
+        <surname>Berkes</surname>
+      </name>
+      <eventref hlink="_f1f8d94dc2b225a1bfaa92e177a" role="Primary"/>
+      <eventref hlink="_f1f8da1aaef335f81b4a8110bb9" role="Primary"/>
+      <childof hlink="_f146aa8531d3c89f88bfe1d5fcc"/>
+    </person>
+    <person handle="_f1f965f02f4ad6bc710ecf7a69" change="1663521741" id="I0183">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname>Berkes</surname>
+      </name>
+      <eventref hlink="_f21303578ac2bab36d63747c84d" role="Primary"/>
+      <eventref hlink="_f21303919997896f22697564c91" role="Primary"/>
+      <childof hlink="_f212ffbec5fa1f644fbb67f147"/>
+      <parentin hlink="_f1f965e99a1249dd0cfcd0f7446"/>
+    </person>
+    <person handle="_f1f9661605d5a6e6a723b388dbc" change="1663443793" id="I0184">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname>Délczeg</surname>
+      </name>
+      <eventref hlink="_f21015d0a93467a09d3ffb42452" role="Primary"/>
+      <eventref hlink="_f210161beb94b535859fa8d0243" role="Primary"/>
+      <childof hlink="_f210128643d3c83dff7fe698c2f"/>
+      <parentin hlink="_f1f965e99a1249dd0cfcd0f7446"/>
+    </person>
+    <person handle="_f1f966d4e254fa42c2fa7b7e171" change="1662834239" id="I0185">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>János</first>
+        <surname>Szántó</surname>
+      </name>
+      <parentin hlink="_f1f966cfcc6ddc2db035dac576"/>
+    </person>
+    <person handle="_f1f966eafc8667f00a183493eaf" change="1663523885" id="I0186">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Katalin</first>
+        <surname>Varga</surname>
+      </name>
+      <eventref hlink="_f213170c97a2e241e09e10b0207" role="Primary"/>
+      <eventref hlink="_f2131806c205811a1090344761a" role="Primary"/>
+      <parentin hlink="_f1f966cfcc6ddc2db035dac576"/>
+    </person>
+    <person handle="_f21012931ee60ef43a85258452c" change="1663443803" id="I0187">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Mihály</first>
+        <surname>Délczeg</surname>
+      </name>
+      <parentin hlink="_f210128643d3c83dff7fe698c2f"/>
+    </person>
+    <person handle="_f21012abf67705516f0b42d4890" change="1663442815" id="I0188">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Rozália</first>
+        <surname>Szűcs</surname>
+      </name>
+      <parentin hlink="_f210128643d3c83dff7fe698c2f"/>
+    </person>
+    <person handle="_f212ffc4fcb5c56ec89fd1aafd5" change="1663521751" id="I0189">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>György</first>
+        <surname prefix="id.">Berkes</surname>
+      </name>
+      <parentin hlink="_f212ffbec5fa1f644fbb67f147"/>
+    </person>
+    <person handle="_f212fff062a72d89f50b17e2118" change="1663521378" id="I0190">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Julianna</first>
+        <surname>Szűcs</surname>
+      </name>
+      <parentin hlink="_f212ffbec5fa1f644fbb67f147"/>
+    </person>
+    <person handle="_f2131023502712a2090c547c970" change="1663523075" id="I0191">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>István</first>
+        <surname>Berkes</surname>
+      </name>
+      <eventref hlink="_f213104c54422ab66a139a980fd" role="Primary"/>
+      <childof hlink="_f1f965e99a1249dd0cfcd0f7446"/>
+    </person>
+    <person handle="_f21328f4bce2d151280c0d70db5" change="1663525819" id="I0192">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna</first>
+        <surname prefix="id.">Berkes</surname>
+      </name>
+      <eventref hlink="_f21329430405a2c3fd003d96977" role="Primary"/>
+      <eventref hlink="_f2132a3d9813fb03e16647be599" role="Primary"/>
+      <childof hlink="_f212ffbec5fa1f644fbb67f147"/>
+    </person>
+  </people>
+  <families>
+    <family handle="_f104d7432b17be05bc8f0434d04" change="1656269893" id="F0000">
+      <rel type="Married"/>
+      <father hlink="_f104d758b5d6fdfba5997cdb9fe"/>
+      <mother hlink="_f104d78f0e7574f02e1ef6067f9"/>
+      <childref hlink="_f104d6a19ca6c2805938c329493"/>
+      <childref hlink="_f104d7cadc225a0638bba88f31f"/>
+    </family>
+    <family handle="_f104dbe9fdd58a449a36b8a1f54" change="1656269901" id="F0001">
+      <rel type="Civil Union"/>
+      <father hlink="_f104dc173da35a859219c04c0b7"/>
+      <mother hlink="_f104d7cadc225a0638bba88f31f"/>
+      <childref hlink="_f104d8750cd7cbe3ebb7cf4c40a"/>
+    </family>
+    <family handle="_f104dd53c691272c63bd3bc3094" change="1657129450" id="F0002">
+      <rel type="Married"/>
+      <father hlink="_f104dd721362b0b0c1102e8e59b"/>
+      <mother hlink="_f104dd95883a5c95c709df36bd"/>
+      <childref hlink="_f104d78f0e7574f02e1ef6067f9"/>
+      <childref hlink="_f124cc5b5f51338e1e80704cc79"/>
+    </family>
+    <family handle="_f104ddffdd4685b8d781e9b8bdd" change="1657310847" id="F0003">
+      <rel type="Married"/>
+      <father hlink="_f104de082b342161ebdde5cc7be"/>
+      <mother hlink="_f104de2820b36c905823e139f82"/>
+      <childref hlink="_f104d758b5d6fdfba5997cdb9fe"/>
+      <childref hlink="_f12660d9a7e372e76691bf27588"/>
+      <childref hlink="_f12b923567369ec98988290c02"/>
+    </family>
+    <family handle="_f124cf7044d3a2d302162555acf" change="1657127550" id="F0004">
+      <rel type="Unknown"/>
+      <father hlink="_f124cdbbc2741114d3b58fe23d"/>
+      <mother hlink="_f124cc5b5f51338e1e80704cc79"/>
+      <childref hlink="_f124cd384fa60f5b8d84bb9845b"/>
+      <childref hlink="_f124cceb5d4a2e27f4141b3970"/>
+    </family>
+    <family handle="_f124db8ebd36e7d5b008442d894" change="1658939465" id="F0005">
+      <rel type="Married"/>
+      <father hlink="_f124db9531d27051496db07c1d0"/>
+      <mother hlink="_f164ed7ca0c3ee66b1830e3d8cd"/>
+      <childref hlink="_f104de2820b36c905823e139f82"/>
+    </family>
+    <family handle="_f124dc8f53e294cb4ce414ad43b" change="1658939449" id="F0006">
+      <rel type="Married"/>
+      <father hlink="_f124db9531d27051496db07c1d0"/>
+      <mother hlink="_f124dc9cc2219e39fc77be1b16a"/>
+      <childref hlink="_f124dc23c926c3aad65f9e49fc7"/>
+    </family>
+    <family handle="_f124deac940645364aa1c0a8d4" change="1657129413" id="F0007">
+      <rel type="Unknown"/>
+      <father hlink="_f124deb1e5f54dafff7a0e43250"/>
+      <mother hlink="_f124dc23c926c3aad65f9e49fc7"/>
+      <childref hlink="_f124de69ad02734a9be998fb982"/>
+      <childref hlink="_f124df28a473e0b6bb42fd6132c"/>
+    </family>
+    <family handle="_f124e41cee86dab15beab99e482" change="1658036179" id="F0008">
+      <rel type="Married"/>
+      <father hlink="_f124e4234f72b02646404dc96e6"/>
+      <mother hlink="_f124e45ae411effa3ff69f3c9cc"/>
+      <childref hlink="_f104dd95883a5c95c709df36bd"/>
+      <childref hlink="_f12d4d3d73ba7d2ae9bb5cb4d5"/>
+      <childref hlink="_f12d4e0791476fd61fe6e5cfe"/>
+    </family>
+    <family handle="_f124e54489f3b30f9c75ac471da" change="1657129822" id="F0009">
+      <rel type="Unknown"/>
+      <father hlink="_f124e549161582943a7358f660d"/>
+      <mother hlink="_f124e562b6875b25ad32991dff6"/>
+      <childref hlink="_f104dc173da35a859219c04c0b7"/>
+    </family>
+    <family handle="_f124ee46d0f7a722d3e5ce044ae" change="1657131336" id="F0010">
+      <rel type="Married"/>
+      <father hlink="_f124ee4bff25b19ed5636c5b5cd"/>
+      <mother hlink="_f124ee66cf12779cfcd3b1f005d"/>
+      <childref hlink="_f104dd721362b0b0c1102e8e59b"/>
+      <childref hlink="_f124efefed164212f78d9d88bf9"/>
+      <childref hlink="_f124f0298d21f9f7b91ede8c069"/>
+      <childref hlink="_f124f05bfa727b49e832d94382a"/>
+    </family>
+    <family handle="_f124f485b1b44fcf027fd36afaa" change="1657131438" id="F0011">
+      <rel type="Married"/>
+      <father hlink="_f124f174bd53d75075cae1a8c6b"/>
+      <mother hlink="_f124efefed164212f78d9d88bf9"/>
+      <childref hlink="_f124f1f570a3f67f091b6debf7"/>
+      <childref hlink="_f124f22960e4fe61329d5578bf6"/>
+    </family>
+    <family handle="_f124fa4c139fcb930c97bbd64" change="1657644067" id="F0012">
+      <rel type="Married"/>
+      <father hlink="_f124f0298d21f9f7b91ede8c069"/>
+      <mother hlink="_f124f704e3a1bd525730899adf6"/>
+      <childref hlink="_f124f742a49186f1fdcb97e2ecf"/>
+      <childref hlink="_f124f9f48a24d21e9e797a38278"/>
+    </family>
+    <family handle="_f124ffb22a9a63eb3bb4ff1d57" change="1657355940" id="F0013">
+      <rel type="Married"/>
+      <father hlink="_f124ffc7eed3cff3456e5285f31"/>
+      <mother hlink="_f124f05bfa727b49e832d94382a"/>
+      <childref hlink="_f124ff0e3c91f02a985eea7eb80"/>
+      <childref hlink="_f12502f06644d9b91033b6f928f"/>
+    </family>
+    <family handle="_f12662ac5326ab5dbead768a3f1" change="1657169812" id="F0014">
+      <rel type="Married"/>
+      <father hlink="_f126618e687b4eb74eb8ec5029"/>
+      <mother hlink="_f12660d9a7e372e76691bf27588"/>
+      <childref hlink="_f12661f5a0716adf37332431b30"/>
+    </family>
+    <family handle="_f126687a7d81106936538101306" change="1657170442" id="F0015">
+      <rel type="Unknown"/>
+      <father hlink="_f124f22960e4fe61329d5578bf6"/>
+      <mother hlink="_f12668cdadd5c842713f2ff759d"/>
+      <childref hlink="_f12667b1b6d7d176fd90522be37"/>
+    </family>
+    <family handle="_f1266db6f6264e4eeb727c7b556" change="1657171004" id="F0016">
+      <rel type="Married"/>
+      <father hlink="_f1266d0bb5cc32fef40785d037"/>
+      <mother hlink="_f124f9f48a24d21e9e797a38278"/>
+      <childref hlink="_f1266d3b01aa2742ac7b1857f1"/>
+      <childref hlink="_f1266d671e568131d42e0c785fc"/>
+    </family>
+    <family handle="_f1266f98c4e6f0ac7b27adb9d3c" change="1657171171" id="F0017">
+      <rel type="Unmarried"/>
+      <father hlink="_f1266f9f3523bda9ea3047664e5"/>
+      <mother hlink="_f124f1f570a3f67f091b6debf7"/>
+      <childref hlink="_f1266f0086f38b45cafcd6b8044"/>
+    </family>
+    <family handle="_f12673b5cdb348e208b0cd07f34" change="1657171629" id="F0018">
+      <rel type="Unmarried"/>
+      <father hlink="_f124f742a49186f1fdcb97e2ecf"/>
+      <mother hlink="_f12673e52cc656e496f7b531839"/>
+      <childref hlink="_f12672909c0711bf53fe9638cd3"/>
+    </family>
+    <family handle="_f12b9033183600cbc2b1d0c1d7f" change="1657308879" id="F0019">
+      <rel type="Married"/>
+      <father hlink="_f12b905a47f32abd30504deb5c"/>
+      <mother hlink="_f12b8f824d53cdc00ee5de65383"/>
+      <childref hlink="_f12b8fa85083f92f8ec2ec13ab1"/>
+      <childref hlink="_f12b8ffe7a076c7d44c387f1bbc"/>
+    </family>
+    <family handle="_f12b92ef099554dc6b03f10059e" change="1657309092" id="F0020">
+      <rel type="Married"/>
+      <father hlink="_f12b923567369ec98988290c02"/>
+      <mother hlink="_f12b91b32626a175631f07dd96d"/>
+      <childref hlink="_f12b905a47f32abd30504deb5c"/>
+    </family>
+    <family handle="_f12ba4f8d04149383a1123f513" change="1659282045" id="F0021">
+      <rel type="Married"/>
+      <father hlink="_f12ba4ff9356cf9bf56752d2c9d"/>
+      <mother hlink="_f175026d8f777bfee9dabfab035"/>
+      <childref hlink="_f104de082b342161ebdde5cc7be"/>
+      <childref hlink="_f175100809546276c41605981a4"/>
+    </family>
+    <family handle="_f12d49590424c6113c0fe7a3212" change="1657355132" id="F0022">
+      <rel type="Married"/>
+      <father hlink="_f12d42ac37174adfc0682adc35e"/>
+      <mother hlink="_f12d48d4ebd12e47659e4979053"/>
+      <childref hlink="_f12d4362e1b74c6ca45a6ed2e57"/>
+      <childref hlink="_f12d46d54f37f6ff0d88b5207b4"/>
+    </family>
+    <family handle="_f12d4c3253041568dd5c9a2113b" change="1657355378" id="F0023">
+      <rel type="Unmarried"/>
+      <father hlink="_f12d4bdde93471578e339294d7"/>
+      <mother hlink="_f12d4362e1b74c6ca45a6ed2e57"/>
+      <childref hlink="_f12d4b78de94db4d3ef039a2e71"/>
+    </family>
+    <family handle="_f12d583045119587c9400c8ee80" change="1657356714" id="F0024">
+      <rel type="Married"/>
+      <father hlink="_f12d56b48f977261810f423d88a"/>
+      <mother hlink="_f124ff0e3c91f02a985eea7eb80"/>
+      <childref hlink="_f12d5727284fe279b840357557"/>
+    </family>
+    <family handle="_f12d5a828446518ea05d7121759" change="1657356885" id="F0025">
+      <rel type="Married"/>
+      <father hlink="_f12d5a890d82cd23aa22235b46e"/>
+      <mother hlink="_f12d597c6946a6ffe8d91c89981"/>
+      <childref hlink="_f12d59bae8328d8f5b8cdb29351"/>
+    </family>
+    <family handle="_f12d68729e050ef9ccd2c0b6191" change="1657990351" id="F0026">
+      <rel type="Married"/>
+      <father hlink="_f12d68464656ed3d9cf8e3f94a5"/>
+      <mother hlink="_f12d4e0791476fd61fe6e5cfe"/>
+      <eventref hlink="_f144f41c2697f433506b15f7536" role="Family"/>
+      <childref hlink="_f12d48d4ebd12e47659e4979053"/>
+    </family>
+    <family handle="_f12d692f266488e000b496daac6" change="1657358444" id="F0027">
+      <rel type="Unmarried"/>
+      <father hlink="_f12d46d54f37f6ff0d88b5207b4"/>
+      <mother hlink="_f12d694f6b0582251f134c9ac71"/>
+      <childref hlink="_f12d4a5e6af2503daff0e3f2094"/>
+    </family>
+    <family handle="_f144f45cda58d6eec2ba5fe59f" change="1657990437" id="F0028">
+      <rel type="Married"/>
+      <father hlink="_f144f46536824e2634f3640376f"/>
+      <mother hlink="_f144f4d03f37cbf2d610f2db0fa"/>
+      <childref hlink="_f12d68464656ed3d9cf8e3f94a5"/>
+    </family>
+    <family handle="_f14513f6de32cd8bcfa9b64a372" change="1658050021" id="F0029">
+      <rel type="Married"/>
+      <father hlink="_f14513fc3712fa4e874178ee6da"/>
+      <mother hlink="_f14514151e5554d737fa13aa629"/>
+      <childref hlink="_f12b7ac044e41bfda2cf9210d19"/>
+      <childref hlink="_f124e4234f72b02646404dc96e6"/>
+      <childref hlink="_f1472c239117d11df1445fdd6a6"/>
+    </family>
+    <family handle="_f145164c2df371bce2b68b25daf" change="1657993974" id="F0030">
+      <rel type="Married"/>
+      <father hlink="_f1451651be5141123e3226afe2e"/>
+      <mother hlink="_f14516687df72381dfae47a7ab9"/>
+      <childref hlink="_f14514d5a174e38c9a09dbe44a6"/>
+    </family>
+    <family handle="_f1451b0179a31cfebabf79f723" change="1657994477" id="F0031">
+      <rel type="Married"/>
+      <father hlink="_f12b7ac044e41bfda2cf9210d19"/>
+      <mother hlink="_f14514d5a174e38c9a09dbe44a6"/>
+    </family>
+    <family handle="_f146aa8531d3c89f88bfe1d5fcc" change="1662819513" id="F0032">
+      <rel type="Married"/>
+      <father hlink="_f146aaa76c82e887ea8156a3684"/>
+      <mother hlink="_f146aac61c61265a44d097f0e0d"/>
+      <childref hlink="_f124e45ae411effa3ff69f3c9cc"/>
+      <childref hlink="_f1f8d8e436c74bb8748bb787dd0"/>
+    </family>
+    <family handle="_f1473631d42539b0ab35eb5d7f4" change="1658051002" id="F0033">
+      <rel type="Married"/>
+      <father hlink="_f14734fcb5c2946800c6ee73cba"/>
+      <mother hlink="_f1472c239117d11df1445fdd6a6"/>
+    </family>
+    <family handle="_f1473b969ed52d231bd9502d4e3" change="1658051687" id="F0034">
+      <rel type="Married"/>
+      <father hlink="_f1473acc868720e43dc8b48abaa"/>
+      <mother hlink="_f1472c239117d11df1445fdd6a6"/>
+    </family>
+    <family handle="_f1474734a3a443d4fe3ccb400c" change="1658052789" id="F0035">
+      <rel type="Married"/>
+      <father hlink="_f14747621497cae5aaef89fe299"/>
+      <mother hlink="_f14747771a1191e619ecf824e87"/>
+      <childref hlink="_f147419b2816210a263ba53536f"/>
+    </family>
+    <family handle="_f14ec969d62485796e9eab8b047" change="1658254694" id="F0036">
+      <rel type="Married"/>
+      <father hlink="_f14ec9703ee5a9460cdbd18939d"/>
+      <mother hlink="_f14eca2c410758f1bd17c0e0f30"/>
+      <childref hlink="_f124ee66cf12779cfcd3b1f005d"/>
+      <childref hlink="_f14dce4458121c166f7497953a5"/>
+      <childref hlink="_f14dcd21d3946f0d2bc323fa23a"/>
+      <childref hlink="_f14dcd9a6c253f455aa86d1d38d"/>
+    </family>
+    <family handle="_f14ecfeb23e41085a34b675baf1" change="1658255058" id="F0037">
+      <rel type="Unknown"/>
+      <father hlink="_f14ecff2d444148934c8b12dcbf"/>
+      <mother hlink="_f14ed06ce3d2c575e285c301062"/>
+      <childref hlink="_f14ec9703ee5a9460cdbd18939d"/>
+    </family>
+    <family handle="_f14ed0bfafd298eb07cafa8b8b5" change="1658471785" id="F0038">
+      <rel type="Married"/>
+      <father hlink="_f14ed1199a4307fb063eea1e949"/>
+      <mother hlink="_f14ed148ea636a18489b88c514b"/>
+      <childref hlink="_f14eca2c410758f1bd17c0e0f30"/>
+      <childref hlink="_f156e2a3e976392e3e8f0aaf61e"/>
+    </family>
+    <family handle="_f14ed5c60142708f7b817b46656" change="1658427516" id="F0039">
+      <rel type="Married"/>
+      <father hlink="_f14ed5ca9202c1b7b4e623883dc"/>
+      <mother hlink="_f14ed5f66c63d5141fda7efa251"/>
+      <childref hlink="_f124ee4bff25b19ed5636c5b5cd"/>
+      <childref hlink="_f1552aa25044d08d4cd26f99"/>
+      <childref hlink="_f15537a15452936d6e1bc9f8c54"/>
+      <childref hlink="_f1553c42e9727fab18c9837661c"/>
+    </family>
+    <family handle="_f1551b0eeaf4f547cae9ff41a8d" change="1658423986" id="F0040">
+      <rel type="Unknown"/>
+      <father hlink="_f12d52465503e1e8e6db6add382"/>
+      <mother hlink="_f12502f06644d9b91033b6f928f"/>
+      <childref hlink="_f12d597c6946a6ffe8d91c89981"/>
+    </family>
+    <family handle="_f15541108803a726e14fee02fb9" change="1658427961" id="F0042">
+      <rel type="Married"/>
+      <father hlink="_f1553c42e9727fab18c9837661c"/>
+      <mother hlink="_f1553f9cedd2bb7d0fb768ebf3a"/>
+    </family>
+    <family handle="_f15542cc0685c488959d8559701" change="1658428141" id="F0043">
+      <rel type="Married"/>
+      <father hlink="_f15541e15692240630cb469c700"/>
+      <mother hlink="_f1554259d30bdb5e0fb4dea337"/>
+      <childref hlink="_f1553f9cedd2bb7d0fb768ebf3a"/>
+    </family>
+    <family handle="_f167f2fa3fb2efd6ee04424fb8" change="1658930279" id="F0044">
+      <rel type="Married"/>
+      <father hlink="_f167f301db277a472ca7d8550fb"/>
+      <mother hlink="_f167f44bef217890b7fed5ab3d3"/>
+      <childref hlink="_f164ed7ca0c3ee66b1830e3d8cd"/>
+      <childref hlink="_f167f6cb38327209d617d6f880f"/>
+      <childref hlink="_f167f740228271349b0a115afab"/>
+    </family>
+    <family handle="_f168126f7ff54c213746a52c47b" change="1658933075" id="F0045">
+      <rel type="Unknown"/>
+      <father hlink="_f16811bb5963c013aaad1c0eb61"/>
+      <mother hlink="_f168120c42f3548fb0150e24daa"/>
+      <childref hlink="_f167f301db277a472ca7d8550fb"/>
+    </family>
+    <family handle="_f16835849e92e74724ff450a575" change="1658936771" id="F0046">
+      <rel type="Unknown"/>
+      <father hlink="_f168358b9f54ea71dcb6aa3004c"/>
+      <mother hlink="_f16835c03a87b08d0e35e36b960"/>
+      <childref hlink="_f167f44bef217890b7fed5ab3d3"/>
+    </family>
+    <family handle="_f16a60b5ef46c0486fcad8b78dd" change="1658994990" id="F0047">
+      <rel type="Married"/>
+      <father hlink="_f16a60bb9ce19e9e61912547854"/>
+      <mother hlink="_f16a60dcddf5738cb3ac59ffcec"/>
+      <childref hlink="_f168358b9f54ea71dcb6aa3004c"/>
+    </family>
+    <family handle="_f16a61f1f403896cd00be2084e3" change="1658995111" id="F0048">
+      <rel type="Unknown"/>
+      <father hlink="_f16a61f6b4195eec7e678af942"/>
+      <mother hlink="_f16a621b5016055e8c4116a9699"/>
+      <childref hlink="_f16835c03a87b08d0e35e36b960"/>
+    </family>
+    <family handle="_f16aaf098751bfb5e0a0557c697" change="1659023234" id="F0049">
+      <rel type="Married"/>
+      <father hlink="_f16aaf0e6f87104d608d6b3f038"/>
+      <mother hlink="_f16b6e1cfa97fc76f8031940fe0"/>
+      <childref hlink="_f16a60bb9ce19e9e61912547854"/>
+    </family>
+    <family handle="_f16c39512f64c4e711bafe110c4" change="1659044551" id="F0050">
+      <rel type="Married"/>
+      <father hlink="_f16c395692243040034eeb6b39e"/>
+      <mother hlink="_f16c396f6da72417bc2b76a9123"/>
+      <childref hlink="_f168120c42f3548fb0150e24daa"/>
+    </family>
+    <family handle="_f16ef318ad720f4ec2006a02d71" change="1659168230" id="F0051">
+      <rel type="Married"/>
+      <father hlink="_f16ef3209e43bc4a875fd1de48a"/>
+      <mother hlink="_f170d2625563459905e5dd9b31b"/>
+      <childref hlink="_f16a60dcddf5738cb3ac59ffcec"/>
+    </family>
+    <family handle="_f175377815b2b1cb8cf6fb6890c" change="1659290839" id="F0053">
+      <rel type="Married"/>
+      <father hlink="_f1753712f0b35f503909a861d69"/>
+      <mother hlink="_f17537111f1cb86dacf14c930f"/>
+      <childref hlink="_f175026d8f777bfee9dabfab035"/>
+      <childref hlink="_f1755f08295467a5832fc568805"/>
+      <childref hlink="_f1755d9785d45cb3321a8366639"/>
+      <childref hlink="_f1756596fe17b435d7cb8a9d031"/>
+    </family>
+    <family handle="_f1753869bb140cf34fa588a345a" change="1659503425" id="F0054">
+      <rel type="Married"/>
+      <father hlink="_f175380c9a17d696b584bcbda58"/>
+      <mother hlink="_f175382c32b242ae4161e428382"/>
+      <childref hlink="_f12ba4ff9356cf9bf56752d2c9d"/>
+      <childref hlink="_f17d4b104fc4ccf874f01fee5db"/>
+      <childref hlink="_f17d5134e8b290d6a4fd3ae45a4"/>
+    </family>
+    <family handle="_f175795b7e47deed7a834a4a22c" change="1659292893" id="F0055">
+      <rel type="Married"/>
+      <father hlink="_f17579616e91e3fb094c45862ad"/>
+      <mother hlink="_f1757a07e04238482a4f1264902"/>
+      <childref hlink="_f1753712f0b35f503909a861d69"/>
+    </family>
+    <family handle="_f17d6401a141a6201ca0fe213b8" change="1659879400" id="F0056">
+      <rel type="Married"/>
+      <father hlink="_f17d640763662c44f5157bae633"/>
+      <mother hlink="_f18b534c2aa25cc4b6d5c250ffa"/>
+      <childref hlink="_f175380c9a17d696b584bcbda58"/>
+    </family>
+    <family handle="_f17d6a558404df376174dcfc906" change="1659506052" id="F0057">
+      <rel type="Married"/>
+      <father hlink="_f17d6a5e99457b7f27cc36d219c"/>
+      <mother hlink="_f17d6a99c0c76bc461c1c95ebf"/>
+      <childref hlink="_f17d640763662c44f5157bae633"/>
+    </family>
+    <family handle="_f17dc406303430a24ca49ac984c" change="1659515441" id="F0058">
+      <rel type="Married"/>
+      <father hlink="_f17dc40bba07f0da9941d8bf88b"/>
+      <mother hlink="_f17dc4266f0313e6599aa8d3731"/>
+      <childref hlink="_f175382c32b242ae4161e428382"/>
+    </family>
+    <family handle="_f17df59f82e27f4f7c5f94bd374" change="1659520631" id="F0059">
+      <rel type="Married"/>
+      <father hlink="_f17df5a356b606101f5c8609b21"/>
+      <mother hlink="_f17df5bff9a71c21b6216a2557"/>
+      <childref hlink="_f17dc4266f0313e6599aa8d3731"/>
+    </family>
+    <family handle="_f1a15b2636967f6ff2ed8f1744b" change="1660470867" id="F0061">
+      <rel type="Married"/>
+      <father hlink="_f1a15b680db2c957b3c3977ee1d"/>
+      <mother hlink="_f164ed7ca0c3ee66b1830e3d8cd"/>
+    </family>
+    <family handle="_f1b29a4c84b6120741afef8cc4" change="1660933794" id="F0063">
+      <rel type="Unknown"/>
+      <father hlink="_f1b2996bb4a3325af689d612f9e"/>
+      <mother hlink="_f199325fa55634ecfb682264746"/>
+      <childref hlink="_f17537111f1cb86dacf14c930f"/>
+      <childref hlink="_f1a1db4980178f280bad73e6b4c"/>
+      <childref hlink="_f1a1dc0c005f2953f759c9bd6e"/>
+    </family>
+    <family handle="_f1b7b2a0f6a7e7d7c3455bd7c58" change="1661070518" id="F0064">
+      <rel type="Married"/>
+      <father hlink="_f1b7b2a59cf64024fbbd061f44e"/>
+      <mother hlink="_f1b7b2c3cb84fc83a25b6e30302"/>
+      <childref hlink="_f14ed5f66c63d5141fda7efa251"/>
+    </family>
+    <family handle="_f1bf6cfe2bd1e67eafbffebdd5d" change="1661277969" id="F0065">
+      <rel type="Married"/>
+      <father hlink="_f1bf6d047094dab87cc5af0d2aa"/>
+      <mother hlink="_f1bf6d1bdaf8a678b7d3d5e216"/>
+      <childref hlink="_f14ed5ca9202c1b7b4e623883dc"/>
+    </family>
+    <family handle="_f1ddf9761ac78de1c4dc4b12136" change="1662098001" id="F0066">
+      <rel type="Unknown"/>
+      <father hlink="_f1ddf98fc853650dfd9aa4b465f"/>
+      <mother hlink="_f1ddf9a63b1585b2aaabff0fdae"/>
+      <childref hlink="_f14513fc3712fa4e874178ee6da"/>
+    </family>
+    <family handle="_f1de73972082efe0518dfad306f" change="1662110814" id="F0067">
+      <rel type="Married"/>
+      <father hlink="_f1de73b3f7656dbf9a493e043dc"/>
+      <mother hlink="_f1de73cbce92a7217cc0f3776d8"/>
+      <childref hlink="_f14514151e5554d737fa13aa629"/>
+    </family>
+    <family handle="_f1e8d7ead64e878c14230df09" change="1662389760" id="F0068">
+      <rel type="Married"/>
+      <father hlink="_f1e8d7f29a459f89476fb169b14"/>
+      <mother hlink="_f1e8d8071e45b652256a9e26bae"/>
+      <childref hlink="_f1ddf9a63b1585b2aaabff0fdae"/>
+    </family>
+    <family handle="_f1f965e99a1249dd0cfcd0f7446" change="1663523075" id="F0069">
+      <rel type="Married"/>
+      <father hlink="_f1f965f02f4ad6bc710ecf7a69"/>
+      <mother hlink="_f1f9661605d5a6e6a723b388dbc"/>
+      <childref hlink="_f146aaa76c82e887ea8156a3684"/>
+      <childref hlink="_f2131023502712a2090c547c970"/>
+    </family>
+    <family handle="_f1f966cfcc6ddc2db035dac576" change="1662834239" id="F0070">
+      <rel type="Married"/>
+      <father hlink="_f1f966d4e254fa42c2fa7b7e171"/>
+      <mother hlink="_f1f966eafc8667f00a183493eaf"/>
+      <childref hlink="_f146aac61c61265a44d097f0e0d"/>
+    </family>
+    <family handle="_f210128643d3c83dff7fe698c2f" change="1663442815" id="F0071">
+      <rel type="Married"/>
+      <father hlink="_f21012931ee60ef43a85258452c"/>
+      <mother hlink="_f21012abf67705516f0b42d4890"/>
+      <childref hlink="_f1f9661605d5a6e6a723b388dbc"/>
+    </family>
+    <family handle="_f212ffbec5fa1f644fbb67f147" change="1663525799" id="F0072">
+      <rel type="Married"/>
+      <father hlink="_f212ffc4fcb5c56ec89fd1aafd5"/>
+      <mother hlink="_f212fff062a72d89f50b17e2118"/>
+      <childref hlink="_f1f965f02f4ad6bc710ecf7a69"/>
+      <childref hlink="_f21328f4bce2d151280c0d70db5"/>
+    </family>
+  </families>
+  <places>
+    <placeobj handle="_f124ec2a6b067db97716fac30ef" change="1657130520" id="P0000" type="Village">
+      <pname value="Szentgáloskér"/>
+    </placeobj>
+    <placeobj handle="_f1454ad6e212b8a56faaf07a0a4" change="1658391924" id="P0001" type="Village">
+      <pname value="Balatonkiliti"/>
+      <coord long="18.068611" lat="46.8825"/>
+    </placeobj>
+    <placeobj handle="_f1454cc942e4e600b45ca5903d2" change="1657999645" id="P0002" type="City">
+      <pname value="Kaposvár"/>
+    </placeobj>
+    <placeobj handle="_f1456a0bf4d577f29c1759605bb" change="1658002713" id="P0004" type="City">
+      <pname value="Siófok"/>
+    </placeobj>
+    <placeobj handle="_f14dcd7670f2b958014817b828b" change="1658424404" id="P0015" type="Village">
+      <pname value="Felsőmocsolád"/>
+      <pname value="Mocsolád"/>
+    </placeobj>
+    <placeobj handle="_f14eca0448655d4f53bed67e9d8" change="1658391832" id="P0022" type="Village">
+      <pname value="Osztopán"/>
+    </placeobj>
+    <placeobj handle="_f14ecac3bcb5ad17fd1e598eeb0" change="1658424440" id="P0023" type="City">
+      <pname value="Balatonboglár"/>
+      <pname value="Boglár"/>
+    </placeobj>
+    <placeobj handle="_f153e8896097033d1fc3c0e9bfb" change="1658391786" id="P0029" type="City">
+      <pname value="Dombóvár"/>
+    </placeobj>
+    <placeobj handle="_f15528a8b5e24f6f121c07e15bc" change="1658425354" id="P0030" type="Village">
+      <pname value="Német Egres"/>
+    </placeobj>
+    <placeobj handle="_f1553d0e508425f59c067a1a9cc" change="1658427492" id="P0031" type="City">
+      <pname value="Igal"/>
+    </placeobj>
+    <placeobj handle="_f156e32ffe78d16cd62913e78b" change="1658471756" id="P0032" type="Village">
+      <pname value="Szőlősgyörök"/>
+    </placeobj>
+    <placeobj handle="_f164ef04a3c3ba1f20c97dc922d" change="1658848806" id="P0033" type="Village">
+      <pname value="Kocsola"/>
+    </placeobj>
+    <placeobj handle="_f167f24beca1cf293aa8b8bea09" change="1658929681" id="P0034" type="Village">
+      <pname value="Döbrököz"/>
+    </placeobj>
+    <placeobj handle="_f16c3898d9e6dbe01dcd5cbbb47" change="1659044687" id="P0035" type="Village">
+      <pname value="Felsőleperd"/>
+      <pname value="Leperd"/>
+      <pname value="Dalmand"/>
+    </placeobj>
+    <placeobj handle="_f175017153f3fa56b14fe46d662" change="1659280235" id="P0036" type="Town">
+      <pname value="Tamási"/>
+    </placeobj>
+    <placeobj handle="_f17501ba630292306a6776438e" change="1660211052" id="P0037" type="Village">
+      <pname value="Újvárhegy"/>
+      <pname value="Várhegy"/>
+      <coord long="" lat="https://data2.openstreetmap.hu/terkep/Tam%C3%A1si"/>
+  <url  href="https://data2.openstreetmap.hu/terkep/Tam%C3%A1si,%C3%9Ajv%C3%A1rhegy" type="Location"/>
+    </placeobj>
+    <placeobj handle="_f1751133baf635a033e9c919fd3" change="1659281887" id="P0038" type="Village">
+      <pname value="Várhegy"/>
+    </placeobj>
+    <placeobj handle="_f1751263e417bea1c20f6a7822f" change="1659282012" id="P0039" type="Village">
+      <pname value="Gyulaj"/>
+    </placeobj>
+    <placeobj handle="_f17535e54d72bb954487e01fb50" change="1659285735" id="P0040" type="Village">
+      <pname value="Szemcséd"/>
+    </placeobj>
+    <placeobj handle="_f17536ae17130144d97ac6b264e" change="1659285817" id="P0041" type="Village">
+      <pname value="Iregszemcse"/>
+    </placeobj>
+    <placeobj handle="_f1755e1f32010039b41fa823837" change="1659289953" id="P0042" type="Village">
+      <pname value="Szemcse puszta"/>
+    </placeobj>
+    <placeobj handle="_f17d66c8bfa657c620128a9f765" change="1659505610" id="P0043" type="Village">
+      <pname value="Nagykónyi"/>
+      <pname value="Medgyes puszta"/>
+    </placeobj>
+    <placeobj handle="_f1992fd7618313b8718401029ec" change="1660251468" id="P0044" type="Village">
+      <pname value="Vörösegyháza"/>
+      <pname value="Dalmand"/>
+    </placeobj>
+    <placeobj handle="_f1a15aa01c5227a189cd306d2b1" change="1660470702" id="P0045" type="City">
+      <pname value="Budapest"/>
+    </placeobj>
+    <placeobj handle="_f1b7b456a4a2f43efddf4d2d99b" change="1661070668" id="P0046" type="Town">
+      <pname value="Mernye"/>
+    </placeobj>
+    <placeobj handle="_f1bf47228c97b61288abc74c56c" change="1661273965" id="P0047" type="Town">
+      <pname value="Regöly"/>
+    </placeobj>
+    <placeobj handle="_f1bf580e9b34629d715b3fdc665" change="1661275739" id="P0048" type="Village">
+      <pname value="Lengyeltóti"/>
+    </placeobj>
+    <placeobj handle="_f1dc7cf923642dd5772c501831d" change="1662058073" id="P0049" type="Village">
+      <pname value="Szakcs"/>
+    </placeobj>
+    <placeobj handle="_f1dc7d7f2caaa69570610a6f42" change="1662058128" id="P0050" type="Village">
+      <pname value="Endréd"/>
+    </placeobj>
+    <placeobj handle="_f1f96575ec0849d3752bf670b6" change="1662834409" id="P0051" type="Town">
+      <pname value="Enying"/>
+    </placeobj>
+    <placeobj handle="_f1f965a4c812b862f0b15e701fb" change="1662834090" id="P0052" type="Town">
+      <pname value="Enying"/>
+      <placeref hlink="_f1f96575ec0849d3752bf670b6"/>
+    </placeobj>
+  </places>
+  <objects>
+    <object handle="_f1383a6e8b155327d9ce18c1c51" change="1657649769" id="O0000">
+      <file src="home/annamari/Pictures/Photos/anyu 75 maj ballagási kép .jpg" mime="image/jpeg" checksum="f97a40fa173d7934ca0272bcd83646a7" description="anyu 75 maj ballagási kép"/>
+    </object>
+    <object handle="_f1383aeb4bc425b10cff9181c60" change="1657649778" id="O0001">
+      <file src="home/annamari/Pictures/Photos/anyuék esküvője 5.jpg" mime="image/jpeg" checksum="96d807485f0881bea1fc3c603ebe4bec" description="anyuék esküvője 5"/>
+    </object>
+    <object handle="_f1383b4dcff35b2b6f751fda82f" change="1657650209" id="O0002">
+      <file src="home/annamari/Pictures/Photos/Dóri és Tibor.jpg" mime="image/jpeg" checksum="e3aec5795786ec05475f40bfc6174b05" description="Dóri és Tibor"/>
+    </object>
+    <object handle="_f1383b9e5cd5434dd66dbd4b678" change="1657650231" id="O0003">
+      <file src="home/annamari/Pictures/Photos/Erzsi és Zsiga.jpg" mime="image/jpeg" checksum="f1837c1fe5672f24477ac824932689f0" description="Erzsi és Zsiga"/>
+    </object>
+    <object handle="_f1383be9c626ad90a54bfd129a3" change="1657648910" id="O0004">
+      <file src="home/annamari/Pictures/Photos/Gyula bátya és papa.jpg" mime="image/jpeg" checksum="7b6eedf3f732c8c92d077c45e07aba75" description="Gyula bátya és papa"/>
+    </object>
+    <object handle="_f1383c10fe83da539f4c7b2a712" change="1657650278" id="O0005">
+      <file src="home/annamari/Pictures/Photos/Gyulaji mami.jpg" mime="image/jpeg" checksum="f936571d3b6fa31d7000a6584413bd22" description="Gyulaji mami"/>
+    </object>
+    <object handle="_f1383c508781c8bc2323da0d2de" change="1657648952" id="O0006">
+      <file src="home/annamari/Pictures/Photos/Julcsi2017.jpg" mime="image/jpeg" checksum="25fc3f4d63e5b6def838c6a450909bd7" description="Julcsi2017"/>
+    </object>
+    <object handle="_f1383c79f5e12c48fd2b06bbde7" change="1657651580" id="O0007">
+      <file src="home/annamari/Pictures/Photos/Gyulaji papa 80as évek .jpg" mime="image/jpeg" checksum="52897571a3c9cc3ba7d5e9e0a0c2734b" description="Gyulaji papa 80as évek"/>
+    </object>
+    <object handle="_f1383cb60936122907a15aad901" change="1657649958" id="O0008">
+      <file src="home/annamari/Pictures/Photos/Ilonka nénje az otthonában Bodri Siófok Dózsa György104 utca .jpg" mime="image/jpeg" checksum="537374a852101f0d6a87204334275298" description="Ilonka nénje az otthonában Bodri Siófok Dózsa György104 utca"/>
+    </object>
+    <object handle="_f1383cdd90f87ab0ed73df4aa5" change="1657649931" id="O0009">
+      <file src="home/annamari/Pictures/Photos/Gyuri bátyáéknál.jpg" mime="image/jpeg" checksum="6fe58d5535ccd2f444f422613322f578" description="Gyuri bátyáéknál"/>
+    </object>
+    <object handle="_f1383d2563c12efd06c19f9a724" change="1657650240" id="O0010">
+      <file src="home/annamari/Pictures/Photos/kisErzsi.jpg" mime="image/jpeg" checksum="57aa9da5cc1c5fcadf0c30a1e2316549" description="kisErzsi"/>
+    </object>
+    <object handle="_f1383d48ad8f0471736e7d0223" change="1657650023" id="O0011">
+      <file src="home/annamari/Pictures/Photos/Jakab Ilonka Gyuri Rózsika .jpg" mime="image/jpeg" checksum="10546d317c2b01ad8f1c12b996751c90" description="Jakab Ilonka Gyuri Rózsika"/>
+    </object>
+    <object handle="_f1383d801dc36f2cafef5291051" change="1657651777" id="O0012">
+      <file src="home/annamari/Pictures/Photos/Lizi.jpg" mime="image/jpeg" checksum="0b96b38f17ec83a2846c33af6758b3b5" description="Lizi"/>
+    </object>
+    <object handle="_f1383da7633642b0ecabfa0ca" change="1657649991" id="O0013">
+      <file src="home/annamari/Pictures/Photos/mami 50es évek elején .jpg" mime="image/jpeg" checksum="886ca04787fde62fa67a5760f33796fc" description="mami 50es évek elején"/>
+    </object>
+    <object handle="_f1383dcb951f85996817b9c7ca" change="1658570018" id="O0014">
+      <file src="home/annamari/Pictures/Photos/mami és papa esküvője .jpg" mime="image/jpeg" checksum="859d1701aa8664882ddf1464149dc210" description="mami és papa esküvője"/>
+    </object>
+    <object handle="_f1383e0ab4c1b0e45ce33acb097" change="1657650337" id="O0015">
+      <file src="home/annamari/Pictures/Photos/Marci 8as ballagás 2012.jpg" mime="image/jpeg" checksum="829115e613b7f894a6a574158b0fc5a7" description="Marci 8as ballagás 2012"/>
+    </object>
+    <object handle="_f1383e476cb4c8a39d64f2e98d0" change="1657650316" id="O0016">
+      <file src="home/annamari/Pictures/Photos/Julcsi és Marci 2.jpg" mime="image/jpeg" checksum="ff861916d370c32058ff1f4d90821a2d" description="Julcsi és Marci 2"/>
+    </object>
+    <object handle="_f1383e8c5a82a3f648d852e60d1" change="1657649186" id="O0017">
+      <file src="home/annamari/Pictures/Photos/Marikáéknál1980nyar.jpg" mime="image/jpeg" checksum="430ebd0ec14fe3d3fc21337ae51fbcc1" description="Marikáéknál1980nyar"/>
+    </object>
+    <object handle="_f1383ed881838e6dde8d0a71aaa" change="1657650173" id="O0018">
+      <file src="home/annamari/Pictures/Photos/Maza Vali és Attila .jpg" mime="image/jpeg" checksum="4665c3bec9e4c8847959bd6497cb3849" description="Maza Vali és Attila"/>
+    </object>
+    <object handle="_f1383f344f72294adf2834567e6" change="1657650098" id="O0019">
+      <file src="home/annamari/Pictures/Photos/Nóri 3eves4.jpg" mime="image/jpeg" checksum="59a211c064088fe6363556a775362b02" description="Nóri 3eves4"/>
+    </object>
+    <object handle="_f1383f8e7262cb1fb6a19b32146" change="1657650122" id="O0020">
+      <file src="home/annamari/Pictures/Photos/Vali esküvője 3.jpg" mime="image/jpeg" checksum="cdf419eff97dd97c9d5741c805bec5e5" description="Vali esküvője 3"/>
+    </object>
+    <object handle="_f1383fb959d1ab9d599263f8318" change="1657649309" id="O0021">
+      <file src="home/annamari/Pictures/Photos/Pista bácsi Siófok .jpg" mime="image/jpeg" checksum="172924313e25455da37caeb37e6e7f24" description="Pista bácsi Siófok"/>
+    </object>
+    <object handle="_f1383fdeb98468e1ae4ee39e6fc" change="1657650384" id="O0022">
+      <file src="home/annamari/Pictures/Photos/Tündi .jpg" mime="image/jpeg" checksum="7f0749e0d245378339e95515317101f2" description="Tündi"/>
+    </object>
+    <object handle="_f1384013fe26b70fafbc726d683" change="1658601143" id="O0023">
+      <file src="home/annamari/Pictures/Photos/Tündi-Gazsi_esküvő1996jul20.jpg" mime="image/jpeg" checksum="487f4b5ae8842983e39a3867f241f56c" description="Tündi-Gazsi_esküvő1996jul20"/>
+      <dateval val="1996-07-20"/>
+    </object>
+    <object handle="_f1384043c5726bfabd2411eb6e1" change="1657650393" id="O0024">
+      <file src="home/annamari/Pictures/Photos/Tündi 2eves.jpg" mime="image/jpeg" checksum="9431d9c2a1414af5b8265e8c39786de2" description="Tündi 2eves"/>
+    </object>
+    <object handle="_f138408d79131fc55f71fed38ac" change="1657650063" id="O0025">
+      <file src="home/annamari/Pictures/Photos/Vali és Rudi esküvője .jpg" mime="image/jpeg" checksum="996b62fe733600f2536941fee1990930" description="Vali és Rudi esküvője"/>
+    </object>
+    <object handle="_f13840b7c4a2074be3218651d3e" change="1657649540" id="O0026">
+      <file src="home/annamari/Pictures/Photos/Zsófi Tündi ballagás .jpg" mime="image/jpeg" checksum="eba3dc3b886e60b3a0e344f5eb6c51e4" description="Zsófi Tündi ballagás"/>
+    </object>
+    <object handle="_f13840dc0ed5bca0107bacc5247" change="1657649550" id="O0027">
+      <file src="home/annamari/Pictures/Photos/Zsófi a hegyi utcai házban 80as évek .jpg" mime="image/jpeg" checksum="77716fe596ccfdd68d05d867539227a5" description="Zsófi a hegyi utcai házban 80as évek"/>
+    </object>
+    <object handle="_f13842a363859a4a4f9972148dd" change="1657649665" id="O0028">
+      <file src="home/annamari/Pictures/Photos/Julcsiapja-kisIsti-HarsanyiIsti.jpg" mime="image/jpeg" checksum="864e0bd1000a5c3e07c5b9de6c582a5b" description="Julcsiapja-kisIsti-HarsanyiIsti"/>
+    </object>
+    <object handle="_f146a1ab5582a648347b5619978" change="1658035417" id="O0029">
+      <file src="home/annamari/Pictures/ancsa2-Small.png" mime="image/png" checksum="0c25ab5d270411b25baac8aeb6b18b63" description="ancsa2-Small"/>
+    </object>
+  </objects>
+  <notes>
+    <note handle="_f1fbdeeb8eb66dbbce30f596a0f" change="1662900512" id="N0000" type="General">
+      <text>EPAM</text>
+    </note>
+  </notes>
+</database>

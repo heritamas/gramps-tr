@@ -21,7 +21,7 @@
 
     <xsl:template match="event">
         <xsl:element name="{(type,'unknown')[1]}">
-            <xsl:attribute name="dátum" select="dateval/@val"/>
+            <xsl:attribute name="datum" select="dateval/@val"/>
             <xsl:apply-templates select="id(place/@hlink)"/>
         </xsl:element>
     </xsl:template>
@@ -31,7 +31,7 @@
             <xsl:variable name="dátum" select="((daterange, datespan, dateval, datestr)/@val)[1]"/>
             <xsl:attribute name="city" select="city"/>
             <xsl:if test="$dátum">
-                <xsl:attribute name="dátum" select="$dátum"/>
+                <xsl:attribute name="datum" select="$dátum"/>
             </xsl:if>
             <xsl:copy-of select="* except (daterange, datespan, dateval, datestr, city)"/>
         </address>
@@ -39,7 +39,7 @@
 
     <xsl:template match="person">
         <person>
-            <xsl:attribute name="Név" select="name/surname, name/first"/>
+            <xsl:attribute name="nev" select="name/surname, name/first"/>
             <xsl:apply-templates select="address"/>
             <xsl:apply-templates select="id(eventref/@hlink)">
                 <!--<xsl:sort select="if (dateval/@val castable as xs:date) then dateval/@val cast as xs:date? else ()"/>-->
