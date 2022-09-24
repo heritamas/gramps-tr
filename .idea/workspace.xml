@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c798c569-262a-4d02-acc3-7bbff77e2bfd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022-09-11.gramps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-09-11.gramps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022-09-19.gramps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-09-19.gramps.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tr2.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/tr2.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transform.sh" beforeDir="false" afterPath="$PROJECT_DIR$/transform.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/scm/github/heritamas/gramps-tr",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.externalResources"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/scm/github/heritamas/gramps-tr&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalResources&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -101,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663609432834</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="working md generation">
+      <created>1663626065786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663626065786</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,7 +121,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first transformation" />
     <MESSAGE value="binary dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary dependencies" />
+    <MESSAGE value="working md generation" />
+    <option name="LAST_COMMIT_MESSAGE" value="working md generation" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history>
@@ -243,6 +247,30 @@
         <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
       </element>
       <element expression="id('_f104d8750cd7cbe3ebb7cf4c40a')">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="id('_f104d78f0e7574f02e1ef6067f9')">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="id('_f104d78f0e7574f02e1ef6067f9')/((daterange, datespan, dateval, datestr)[1])/@val">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="id('_f124db9531d27051496db07c1d0')">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="id('_f124db9531d27051496db07c1d0')/parentin/@hlink">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="id(id('_f124db9531d27051496db07c1d0')/parentin/@hlink)/father">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="id(id('_f124db9531d27051496db07c1d0')/parentin/@hlink)/(father|mother)">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="id(id('_f124db9531d27051496db07c1d0')/parentin/@hlink)/(father or mother)">
+        <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
+      </element>
+      <element expression="id(id('_f124db9531d27051496db07c1d0')/parentin/@hlink)">
         <namespace prefix="" uri="http://gramps-project.org/xml/1.7.1/" />
       </element>
     </history>
