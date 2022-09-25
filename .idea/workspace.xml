@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c798c569-262a-4d02-acc3-7bbff77e2bfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extend.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extend.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr2.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/tr2.xsl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664092926989</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new export, new transformation: extend (add religion to everywhere)">
+      <created>1664102416011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664102416011</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,7 +145,8 @@
     <MESSAGE value="working md generation" />
     <MESSAGE value="new functions&#10;relatives printed" />
     <MESSAGE value="simplified printout" />
-    <option name="LAST_COMMIT_MESSAGE" value="simplified printout" />
+    <MESSAGE value="new export, new transformation: extend (add religion to everywhere)" />
+    <option name="LAST_COMMIT_MESSAGE" value="new export, new transformation: extend (add religion to everywhere)" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history>
