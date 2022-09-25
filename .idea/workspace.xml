@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c798c569-262a-4d02-acc3-7bbff77e2bfd" name="Changes" comment="simplified printout">
+    <list default="true" id="c798c569-262a-4d02-acc3-7bbff77e2bfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/extend.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend.xsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tr2.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/tr2.xsl" afterDir="false" />
     </list>
@@ -37,7 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/scm/github/heritamas/gramps-tr&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/scm/github/other/gramps&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -70,8 +72,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="XSLT.tr2" />
       <item itemvalue="XSLT.tr1" />
+      <item itemvalue="XSLT.tr2" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -111,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664048212764</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="simplified printout">
+      <created>1664092926989</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664092926989</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

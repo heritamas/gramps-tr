@@ -71,14 +71,21 @@
     <xsl:template match="event">
         <xsl:value-of select="gr:format-listitem(
         [ type, dateval/@val, description, id(place/@hlink)/pname/@value ],
-        [ '*_*', '(_)', ': _', '_' ]
+        [ '*_* ', '(_) ', ': _ ', '_' ]
         )"/>
     </xsl:template>
 
     <xsl:template match="address">
         <xsl:value-of select="gr:format-listitem(
         [(daterange, datespan, dateval, datestr)/@val, city, * except (daterange, datespan, dateval, datestr, city)],
-        ['(_)', '_,', '_']
+        ['(_) ', '_, ', '_']
+        )"/>
+    </xsl:template>
+
+    <xsl:template match="attribute">
+        <xsl:value-of select="gr:format-listitem(
+        [@type, @value],
+        ['_: ', '_, ']
         )"/>
     </xsl:template>
 
@@ -131,6 +138,12 @@
             <xsl:apply-templates select="id(eventref/@hlink)">
                 <xsl:sort select="dateval/@val"/>
             </xsl:apply-templates>
+            <xsl:text>&#xa;</xsl:text>
+            <xsl:text>&#xa;</xsl:text>
+
+            <xsl:text>### Tudnivalók</xsl:text>
+            <xsl:text>&#xa;</xsl:text>
+            <xsl:apply-templates select="attribute"/>
             <xsl:text>&#xa;</xsl:text>
             <xsl:text>&#xa;</xsl:text>
 
