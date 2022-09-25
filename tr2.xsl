@@ -5,8 +5,10 @@
                 xmlns:array="http://www.w3.org/2005/xpath-functions/array"
                 xmlns:xs="http://www.w3.org/2001/XMLSchema"
                 xmlns:gr="Gramps Transform">
+
     <xsl:mode on-no-match="shallow-skip"/>
-    <xsl:output method="text"/>
+    <xsl:output method="text" indent="no"/>
+    <xsl:strip-space elements="*"/>
 
     <xsl:key name="person" match="person" use="@handle"/>
 
@@ -36,15 +38,15 @@
         <xsl:param name="templates" as="array(xs:string)"/>
         <!--
         <xsl:message>
-            items:<xsl:value-of select="$items" />
+            items:<xsl:value-of select="$items" separator=""/>
         </xsl:message>
         <xsl:message>
-            templates: <xsl:value-of select="$templates" />
+            templates: <xsl:value-of select="$templates" separator=""/>
         </xsl:message>
         <xsl:message>
             <xsl:value-of select="for
             $i in (1 to array:size($templates))
-            return concat('item: ', $items($i), ' template: ', $templates($i), '&#xa;')" />
+            return concat('item: @', $items($i), '@ template: @', $templates($i), '@&#xa;')" separator=""/>
         </xsl:message>
         -->
         <xsl:text>- </xsl:text>
@@ -52,23 +54,19 @@
             $i in (1 to array:size($templates))
             return if ($items($i))
                 then replace($templates($i), '_', string-join($items($i), ' '))
-                else ''" />
+                else ()" separator=""/>
         <xsl:text>&#xa;</xsl:text>
     </xsl:function>
 
     <xsl:function name="gr:format-personlink" as="xs:string*">
-        <xsl:param name="person" as="node()*"/>
-        <xsl:for-each select="$person">
-            <xsl:variable name="filenév" select="map:get($person-filename, @handle)"/>
-            <xsl:variable name="név" select="map:get($person-name, @handle)"/>
-            <xsl:value-of select="gr:format-listitem(
-                [$filenév, $név],
-                ['[[_|','_]]']
+        <xsl:param name="person" as="node()"/>
+        <xsl:variable name="filenév" select="map:get($person-filename, $person/@handle)"/>
+        <xsl:variable name="név" select="map:get($person-name, $person/@handle)"/>
+        <xsl:value-of select="gr:format-listitem(
+                [$person/gender, $filenév, $név],
+                ['_: ', '[[_|', '_]]']
             )"/>
-        </xsl:for-each>
     </xsl:function>
-
-
 
     <xsl:template match="event">
         <xsl:value-of select="gr:format-listitem(
@@ -92,37 +90,8 @@
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
-    <xsl:template match="childref">
-        <xsl:variable name="filename" select="map:get($person-filename, @hlink)"/>
-        <xsl:variable name="name" select="map:get($person-name, @hlink)"/>
-        <xsl:value-of select="gr:format-listitem(
-        [$filename, $name],
-        ['[[_|','_]]']
-        )"/>
-    </xsl:template>
-
-    <xsl:template match="childof">
-        <xsl:variable name="filenév-anya" select="map:get($person-filename, id(@hlink)/mother/@hlink)"/>
-        <xsl:variable name="név-anya" select="map:get($person-name, id(@hlink)/mother/@hlink)"/>
-        <xsl:variable name="filenév-apa" select="map:get($person-filename, id(@hlink)/father/@hlink)"/>
-        <xsl:variable name="név-apa" select="map:get($person-name, id(@hlink)/father/@hlink)"/>
-        <xsl:value-of select="gr:format-listitem(
-        [$filenév-anya, $név-anya],
-        ['Anya: [[_|','_]]']
-        )"/>
-        <xsl:value-of select="gr:format-listitem(
-        [$filenév-apa, $név-apa],
-        ['Apa: [[_|','_]]']
-        )"/>
-    </xsl:template>
-
     <xsl:template match="person" mode="link">
-        <xsl:variable name="filenév" select="map:get($person-filename, @handle)"/>
-        <xsl:variable name="név" select="map:get($person-name, @handle)"/>
-        <xsl:value-of select="gr:format-listitem(
-                [gender, $filenév, $név],
-                ['_:', '[[_|','_]]']
-            )"/>
+        <xsl:value-of select="gr:format-personlink(.)" />
     </xsl:template>
 
     <xsl:template match="person">
@@ -160,7 +129,6 @@
             <xsl:text>### Események</xsl:text>
             <xsl:text>&#xa;</xsl:text>
             <xsl:apply-templates select="id(eventref/@hlink)">
-                <!--<xsl:sort select="if (dateval/@val castable as xs:date) then dateval/@val cast as xs:date? else ()"/>-->
                 <xsl:sort select="dateval/@val"/>
             </xsl:apply-templates>
             <xsl:text>&#xa;</xsl:text>

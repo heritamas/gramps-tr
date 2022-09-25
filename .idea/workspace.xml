@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c798c569-262a-4d02-acc3-7bbff77e2bfd" name="Changes" comment="">
+    <list default="true" id="c798c569-262a-4d02-acc3-7bbff77e2bfd" name="Changes" comment="simplified printout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tr2.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/tr2.xsl" afterDir="false" />
     </list>
@@ -70,8 +70,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="XSLT.tr1" />
       <item itemvalue="XSLT.tr2" />
+      <item itemvalue="XSLT.tr1" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663626065786</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new functions&#10;relatives printed">
+      <created>1664048212763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664048212764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +129,9 @@
     <MESSAGE value="first transformation" />
     <MESSAGE value="binary dependencies" />
     <MESSAGE value="working md generation" />
-    <option name="LAST_COMMIT_MESSAGE" value="working md generation" />
+    <MESSAGE value="new functions&#10;relatives printed" />
+    <MESSAGE value="simplified printout" />
+    <option name="LAST_COMMIT_MESSAGE" value="simplified printout" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history>
